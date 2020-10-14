@@ -168,13 +168,14 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-scan-device.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             psi.CreateNoWindow = true;
             psi.UseShellExecute = false;
             psi.RedirectStandardOutput = true;
             psi.RedirectStandardError = true;
             lprocess = true;
             BackgroundWorker b = (BackgroundWorker)sender;
-            process = Process.Start(psi); 
+            process = Process.Start(psi);
             b.ReportProgress(0, Resources.开始执行检测设备); running = true;
             List<string> myReader = new List<string>();
             process.OutputDataReceived += (s, _e) =>
@@ -253,6 +254,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-list.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             psi.CreateNoWindow = true;
             psi.UseShellExecute = false;
             psi.RedirectStandardOutput = true;
@@ -277,6 +279,7 @@ namespace MifareOneTool
         private string GetUID()
         {
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-list.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             psi.CreateNoWindow = true;
             psi.UseShellExecute = false;
             psi.RedirectStandardOutput = true;
@@ -369,6 +372,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfclassic.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = "r " + args[1] + " u \"" + args[0] + "\"";
             if (keymfd != "" && args[2] == "")
@@ -502,6 +506,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfclassic.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = "w " + args[1] + " u \"" + args[0] + "\"";
             if (keymfd != "" && args[2] == "")
@@ -563,6 +568,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/mfoc.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = args[1] + " -O \"" + args[0] + "\"";
             psi.CreateNoWindow = true;
@@ -616,6 +622,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfsetuid.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             RNGCryptoServiceProvider rng = new RNGCryptoServiceProvider();
             byte[] uid = new byte[4];
             rng.GetNonZeroBytes(uid);
@@ -654,6 +661,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfsetuid.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             RNGCryptoServiceProvider rng = new RNGCryptoServiceProvider();
             byte[] uid = new byte[4];
             rng.GetNonZeroBytes(uid);
@@ -696,6 +704,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfclassic.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = "R A u \"" + args[0] + "\"";
             psi.CreateNoWindow = true;
@@ -752,6 +761,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfclassic.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = "W A u \"" + args[0] + "\"";
             if (keymfd != "")
@@ -814,6 +824,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfsetuid.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             psi.Arguments = "" + ((string)e.Argument).Substring(0, 8) + "2B0804006263646566676869";
             psi.CreateNoWindow = true;
             psi.UseShellExecute = false;
@@ -919,6 +930,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfclassic.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = "c " + args[1] + " u \"" + args[0] + "\"";
             if (keymfd != "" && args[2] == "")
@@ -978,6 +990,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfsetuid.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             RNGCryptoServiceProvider rng = new RNGCryptoServiceProvider();
             byte[] uid = new byte[4];
             rng.GetNonZeroBytes(uid);
@@ -1031,6 +1044,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/nfc-mfclassic.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = "f " + args[1] + " u \"" + args[0] + "\"";
             psi.Arguments += " \"" + keymfd + "\" f";
@@ -1195,6 +1209,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/mfdetect.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             psi.Arguments = (string)(e.Argument) + "-O dummy.tmp";
             psi.CreateNoWindow = true;
             psi.UseShellExecute = false;
@@ -1320,6 +1335,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("cmd.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.WorkingDirectory = "./";
             psi.Arguments = "/T:0A " + args[2] + @" nfc-bin\mfoc.exe " + args[1] + " -O \"" + args[0] + "\"";
@@ -1390,6 +1406,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/libnfc_hardnested.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             if (Properties.Settings.Default.HardLowCost)
             {
                 psi.FileName = "nfc-bin/libnfc_hardnestedlc.exe";
@@ -1424,6 +1441,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo(Resources.nfc_bin_collect_exe);
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             psi.Arguments = (string)e.Argument;
             psi.CreateNoWindow = true;
             psi.UseShellExecute = false;

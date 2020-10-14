@@ -121,54 +121,54 @@
     <value>清除</value>
   </data>
   <data name="buttonKeyWrite.Text" xml:space="preserve">
-    <value>修复写入
-有密码
+    <value>修復寫入
+有密碼
 CUID卡</value>
   </data>
   <data name="buttonLoadKey.Text" xml:space="preserve">
-    <value>加载…</value>
+    <value>載入…</value>
   </data>
   <data name="buttonWriteEmpty.Text" xml:space="preserve">
-    <value>修复写入
-无密空白
+    <value>修復寫入
+無密空白
 CUID卡</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
-    <value>MFF08 Tool-CUID修复工具</value>
+    <value>MFF08 Tool-CUID修復工具</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
-    <value>说明</value>
+    <value>說明</value>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
     <value>操作</value>
   </data>
   <data name="groupBox3.Text" xml:space="preserve">
-    <value>日志</value>
+    <value>日誌</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>本工具由nfc-mfclassic做少许修改而来。可用于1K大小CUID卡0块损坏的修复。
-本工具可以修复：SAK写错（不认卡类型）、ATQA写错（不认卡大小），对于BCC写错暂时无能为力。
-请准备好你最后一次写入该卡导致0块损坏的卡数据文件（如果卡片有加密）。</value>
+    <value>本工具由nfc-mfclassic做少許修改而來。可用於1K大小CUID卡0塊損壞的修復。
+本工具可以修復：SAK寫錯（不認卡類型）、ATQA寫錯（不認卡大小），對於BCC寫錯暫時無能為力。
+請準備好你最後一次寫入該卡導致0塊損壞的卡數據文件（如果卡片有加密）。</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
-    <value>最后一次写卡导致0块损坏的卡数据文件：</value>
+    <value>最後一次寫卡導致0塊損壞的卡數據文件：</value>
   </data>
   <data name="logBox.Lines[0]" xml:space="preserve">
-    <value>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。</value>
+    <value>每個人使用CUID卡的時候，總會因不了解或是不經意犯下一些小錯誤。</value>
   </data>
   <data name="logBox.Lines[1]" xml:space="preserve">
-    <value>比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。</value>
+    <value>比如使用編輯器修改UID卻沒有改BCC，SAK=28的卡片解密後的文件直接寫入，又或是從S70卡片導入數據寫入1K卡卻沒有更正ATQA。</value>
   </data>
   <data name="logBox.Lines[2]" xml:space="preserve">
-    <value>MFF08工具给了你一次修复这些损坏卡片的机会。</value>
+    <value>MFF08工具給了你一次修復這些損壞卡片的機會。</value>
   </data>
   <data name="logBox.Lines[3]" xml:space="preserve">
     <value>------------------------------------------------------------------------</value>
   </data>
   <data name="logBox.Text" xml:space="preserve">
-    <value>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
+    <value>每個人使用CUID卡的時候，總會因不了解或是不經意犯下一些小錯誤。
+比如使用編輯器修改UID卻沒有改BCC，SAK=28的卡片解密後的文件直接寫入，又或是從S70卡片導入數據寫入1K卡卻沒有更正ATQA。
+MFF08工具給了你一次修復這些損壞卡片的機會。
 ------------------------------------------------------------------------
 
 </value>

@@ -121,62 +121,62 @@
     <value>[0-9A-Fa-f]{32}</value>
   </data>
   <data name="_Nonce收集完毕" xml:space="preserve">
-    <value>##Nonce收集完毕##</value>
+    <value>##Nonce收集完畢##</value>
   </data>
   <data name="_Sector" xml:space="preserve">
     <value>+Sector: </value>
   </data>
   <data name="_个块不同" xml:space="preserve">
-    <value> 个块不同
+    <value> 區塊不同
 </value>
   </data>
   <data name="_已保存" xml:space="preserve">
     <value>##已保存-</value>
   </data>
   <data name="_已自动保存" xml:space="preserve">
-    <value>##已自动保存-</value>
+    <value>##已自動保存-</value>
   </data>
   <data name="_扇区" xml:space="preserve">
-    <value>#扇区 </value>
+    <value>#扇區 </value>
   </data>
   <data name="_文件中的值错误" xml:space="preserve">
-    <value>##文件中的值错误##</value>
+    <value>##文件中的值錯誤##</value>
   </data>
   <data name="_有数据" xml:space="preserve">
-    <value> 有数据</value>
+    <value> 有數據</value>
   </data>
   <data name="_有错误" xml:space="preserve">
-    <value> 有错误</value>
+    <value> 有錯誤</value>
   </data>
   <data name="_未保存" xml:space="preserve">
     <value>##未保存##</value>
   </data>
   <data name="_程序已被强制停止" xml:space="preserve">
-    <value>##程序已被强制停止##</value>
+    <value>##程序已被強制停止##</value>
   </data>
   <data name="_空扇区" xml:space="preserve">
-    <value> 空扇区</value>
+    <value> 空扇區</value>
   </data>
   <data name="_缓存文件异常" xml:space="preserve">
-    <value>##缓存文件异常##</value>
+    <value>##緩存文件異常##</value>
   </data>
   <data name="_计算得到BCC" xml:space="preserve">
-    <value>，计算得到BCC=</value>
+    <value>，計算得到BCC=</value>
   </data>
   <data name="_软件版本" xml:space="preserve">
-    <value>#软件版本 </value>
+    <value>#軟體版本 </value>
   </data>
   <data name="_运行出错" xml:space="preserve">
-    <value>##运行出错##</value>
+    <value>##運行出錯##</value>
   </data>
   <data name="_运行完毕" xml:space="preserve">
-    <value>##运行完毕##</value>
+    <value>##運行完畢##</value>
   </data>
   <data name="AB文件中一个或两个无效" xml:space="preserve">
-    <value>AB文件中一个或两个无效。</value>
+    <value>AB文件中一個或兩個無效。</value>
   </data>
   <data name="ACR122U支持已经打开过" xml:space="preserve">
-    <value>ACR122U支持已经打开过。</value>
+    <value>ACR122U支持已經打開過。</value>
   </data>
   <data name="DUMP文件_dump_MFD文件_mfd" xml:space="preserve">
     <value>DUMP文件|*.dump|MFD文件|*.mfd</value>
@@ -209,10 +209,10 @@
     <value>MifareOne Tool - 已终止</value>
   </data>
   <data name="MifareOne_Tool_运行中" xml:space="preserve">
-    <value>MifareOne Tool - 运行中</value>
+    <value>MifareOne Tool - 運行中</value>
   </data>
   <data name="MifareOne_Tool_运行完毕" xml:space="preserve">
-    <value>MifareOne Tool - 运行完毕</value>
+    <value>MifareOne Tool - 運行完畢</value>
   </data>
   <data name="nfc_bin_collect_exe" xml:space="preserve">
     <value>nfc-bin/collect.exe</value>
@@ -224,343 +224,343 @@
     <value>txt文件|*.txt</value>
   </data>
   <data name="UID已改为" xml:space="preserve">
-    <value>UID已改为</value>
+    <value>UID已改為</value>
   </data>
   <data name="不恰当的4字节UID长度" xml:space="preserve">
-    <value>不恰当的4字节UID长度</value>
+    <value>不恰當的4字節UID長度</value>
   </data>
   <data name="使用KeyA_是_或KeyB_否" xml:space="preserve">
     <value>使用KeyA（是）或KeyB（否）？</value>
   </data>
   <data name="使用KeyA_是_或KeyB_否_还是不使用_用于全新白卡_" xml:space="preserve">
-    <value>使用KeyA（是）或KeyB（否），还是不使用（用于全新白卡）（取消）？</value>
+    <value>使用KeyA（是）或KeyB（否），還是不使用（用於全新白卡）（取消）？</value>
   </data>
   <data name="俄语" xml:space="preserve">
-    <value>俄语</value>
+    <value>俄語</value>
   </data>
   <data name="共找到" xml:space="preserve">
     <value>共找到 </value>
   </data>
   <data name="写入出错" xml:space="preserve">
-    <value>写入出错</value>
+    <value>寫入出錯</value>
   </data>
   <data name="加载的S50卡文件大小异常" xml:space="preserve">
-    <value>加载的S50卡文件大小异常。</value>
+    <value>加載的S50卡文件大小異常。</value>
   </data>
   <data name="加载的文件不存在" xml:space="preserve">
-    <value>加载的文件不存在。</value>
+    <value>加載的文件不存在。</value>
   </data>
   <data name="危险操作警告" xml:space="preserve">
-    <value>危险操作警告</value>
+    <value>危險操作警告</value>
   </data>
   <data name="同时打开ACR122U支持可能会引起操作速度下降_请确认是否" xml:space="preserve">
-    <value>同时打开ACR122U支持可能会引起操作速度下降。
-请确认是否要继续操作？</value>
+    <value>同時打開ACR122U支持可能會引起操作速度下降。
+請確認是否要繼續操作？</value>
   </data>
   <data name="字典文件_dic" xml:space="preserve">
     <value>字典文件|*.dic</value>
   </data>
   <data name="密钥字典文件_dic" xml:space="preserve">
-    <value>密钥字典文件|*.dic</value>
+    <value>密鑰字典文件|*.dic</value>
   </data>
   <data name="将自动选择首个设备" xml:space="preserve">
-    <value>将自动选择首个设备：</value>
+    <value>將自動選擇首個設備：</value>
   </data>
   <data name="将要写入的文件存在错误_请用高级模式中的Hex工具打开查看" xml:space="preserve">
-    <value>将要写入的文件存在错误，请用高级模式中的Hex工具打开查看。</value>
+    <value>將要寫入的文件存在錯誤，請用高級模式中的Hex工具打開查看。</value>
   </data>
   <data name="已保存到" xml:space="preserve">
     <value>已保存到</value>
   </data>
   <data name="已启用CUID空卡写入补丁" xml:space="preserve">
-    <value>已启用CUID空卡写入补丁</value>
+    <value>已啟用CUID空卡寫入補丁</value>
   </data>
   <data name="已导出MCT文件" xml:space="preserve">
-    <value>已导出MCT文件</value>
+    <value>已導出MCT文件</value>
   </data>
   <data name="已导出密钥字典文件" xml:space="preserve">
-    <value>已导出密钥字典文件</value>
+    <value>已導出密鑰字典文件</value>
   </data>
   <data name="已打开" xml:space="preserve">
-    <value>已打开。</value>
+    <value>已打開。</value>
   </data>
   <data name="已找到_K" xml:space="preserve">
     <value>已找到！K=</value>
   </data>
   <data name="已指定使用该NFC设备" xml:space="preserve">
-    <value>已指定使用该NFC设备：</value>
+    <value>已指定使用該NFC設備：</value>
   </data>
   <data name="已更新扇区" xml:space="preserve">
-    <value>已更新扇区</value>
+    <value>已更新扇區</value>
   </data>
   <data name="已重置并新建卡" xml:space="preserve">
-    <value>已重置并新建卡。</value>
+    <value>已重置並新建卡。</value>
   </data>
   <data name="开始执行CUID_FUID卡片写入" xml:space="preserve">
-    <value>开始执行CUID/FUID卡片写入……</value>
+    <value>開始執行CUID/FUID卡片寫入……</value>
   </data>
   <data name="开始执行HardNested收集数据" xml:space="preserve">
-    <value>开始执行HardNested收集数据……</value>
+    <value>開始執行HardNested收集數據……</value>
   </data>
   <data name="开始执行HardNested解密强化卡" xml:space="preserve">
-    <value>开始执行HardNested解密强化卡……</value>
+    <value>開始執行HardNested解密強化卡……</value>
   </data>
   <data name="开始执行MFOC解密" xml:space="preserve">
-    <value>开始执行MFOC解密……</value>
+    <value>開始執行MFOC解密……</value>
   </data>
   <data name="开始执行UFUID卡片锁定" xml:space="preserve">
-    <value>开始执行UFUID卡片锁定……</value>
+    <value>開始執行UFUID卡片鎖定……</value>
   </data>
   <data name="开始执行UID卡片全格" xml:space="preserve">
-    <value>开始执行UID卡片全格……</value>
+    <value>開始執行UID卡片全格……</value>
   </data>
   <data name="开始执行UID卡片写入" xml:space="preserve">
-    <value>开始执行UID卡片写入……</value>
+    <value>開始執行UID卡片寫入……</value>
   </data>
   <data name="开始执行UID卡片设定卡号" xml:space="preserve">
-    <value>开始执行UID卡片设定卡号……</value>
+    <value>開始執行UID卡片設定卡號……</value>
   </data>
   <data name="开始执行UID卡片读取" xml:space="preserve">
-    <value>开始执行UID卡片读取……</value>
+    <value>開始執行UID卡片讀取……</value>
   </data>
   <data name="开始执行全加密卡片爆破" xml:space="preserve">
-    <value>开始执行全加密卡片爆破……</value>
+    <value>開始執行全加密卡片爆破……</value>
   </data>
   <data name="开始执行写入M1卡片" xml:space="preserve">
-    <value>开始执行写入M1卡片……</value>
+    <value>開始執行寫入M1卡片……</value>
   </data>
   <data name="开始执行字典模式MFOC解密" xml:space="preserve">
-    <value>开始执行字典模式MFOC解密……</value>
+    <value>開始執行字典模式MFOC解密……</value>
   </data>
   <data name="开始执行扫描卡片" xml:space="preserve">
-    <value>开始执行扫描卡片……</value>
+    <value>開始執行掃描卡片……</value>
   </data>
   <data name="开始执行格式化M1卡片" xml:space="preserve">
-    <value>开始执行格式化M1卡片……</value>
+    <value>開始執行格式化M1卡片……</value>
   </data>
   <data name="开始执行检测卡片加密" xml:space="preserve">
-    <value>开始执行检测卡片加密……</value>
+    <value>開始執行檢測卡片加密……</value>
   </data>
   <data name="开始执行检测设备" xml:space="preserve">
-    <value>开始执行检测设备……</value>
+    <value>開始執行檢測設備……</value>
   </data>
   <data name="开始执行读取卡片" xml:space="preserve">
-    <value>开始执行读取卡片……</value>
+    <value>開始執行讀取卡片……</value>
   </data>
   <data name="开始执行重置UID卡片卡号" xml:space="preserve">
-    <value>开始执行重置UID卡片卡号……</value>
+    <value>開始執行重設UID卡片卡號……</value>
   </data>
   <data name="当前扇区数据仍有错误_不能执行修改" xml:space="preserve">
-    <value>当前扇区数据仍有错误，不能执行修改。</value>
+    <value>當前扇區數據仍有錯誤，不能執行修改。</value>
   </data>
   <data name="当前选定扇区" xml:space="preserve">
-    <value>当前选定扇区：？？</value>
+    <value>當前選定扇區：？？</value>
   </data>
   <data name="当前选定扇区0" xml:space="preserve">
-    <value>当前选定扇区：</value>
+    <value>當前選定扇區：</value>
   </data>
   <data name="您可以上传到云计算服务节点进行计算" xml:space="preserve">
-    <value>您可以上传到云计算服务节点进行计算。</value>
+    <value>您可以上傳到雲端計算服務節點進行計算。</value>
   </data>
   <data name="您已经运行了MifareOne_Tool_打开多个本程序可能" xml:space="preserve">
-    <value>您已经运行了MifareOne Tool，打开多个本程序可能会造成冲突及不可预料到的错误。
-确认要继续吗？</value>
+    <value>您已經運行了MifareOne Tool，打開多個本程式可能會造成衝突及不可預料到的錯誤。
+確認要繼續嗎？</value>
   </data>
   <data name="您正在试图重复运行" xml:space="preserve">
-    <value>您正在试图重复运行</value>
+    <value>您正在試圖重複運行</value>
   </data>
   <data name="您没有给定最后一次写卡导致0块损坏的卡数据文件来作为写卡时的" xml:space="preserve">
-    <value>您没有给定最后一次写卡导致0块损坏的卡数据文件来作为写卡时的密钥源。
-操作终止。</value>
+    <value>您沒有給定最後一次寫卡導致0塊損壞的卡數據文件來作為寫卡時的金鑰源。
+操作終止。</value>
   </data>
   <data name="扇区" xml:space="preserve">
-    <value>扇区</value>
+    <value>扇區</value>
   </data>
   <data name="扇区0" xml:space="preserve">
-    <value>扇区 </value>
+    <value>扇區 </value>
   </data>
   <data name="打开了" xml:space="preserve">
-    <value>打开了</value>
+    <value>打開了</value>
   </data>
   <data name="打开出错" xml:space="preserve">
-    <value>打开出错</value>
+    <value>打開出錯</value>
   </data>
   <data name="提示信息" xml:space="preserve">
-    <value>提示信息</value>
+    <value>提示訊息</value>
   </data>
   <data name="文件内不是含有64个块数据_可能不完整或不兼容" xml:space="preserve">
-    <value>文件内不是含有64个块数据，可能不完整或不兼容。</value>
+    <value>文件內不是含有64個塊數據，可能不完整或不相容。</value>
   </data>
   <data name="无密钥" xml:space="preserve">
-    <value>无密钥</value>
+    <value>無金鑰</value>
   </data>
   <data name="无法找到MFF08程序文件_操作终止" xml:space="preserve">
-    <value>无法找到MFF08程序文件。
-操作终止。</value>
+    <value>無法找到MFF08程序文件。
+操作終止。</value>
   </data>
   <data name="显示扇区" xml:space="preserve">
-    <value>显示扇区</value>
+    <value>顯示扇區</value>
   </data>
   <data name="有任务运行中_不可执行" xml:space="preserve">
-    <value>有任务运行中，不可执行。</value>
+    <value>有任務運行中，不可執行。</value>
   </data>
   <data name="未知" xml:space="preserve">
     <value>未知</value>
   </data>
   <data name="未选择有效key_mfd" xml:space="preserve">
-    <value>未选择有效key.mfd。</value>
+    <value>未選擇有效key.mfd。</value>
   </data>
   <data name="本地版本" xml:space="preserve">
     <value>本地版本 </value>
   </data>
   <data name="标准" xml:space="preserve">
-    <value>标准</value>
+    <value>標準</value>
   </data>
   <data name="正在使用智能KeyABN" xml:space="preserve">
-    <value>正在使用智能KeyABN…</value>
+    <value>正在使用智慧KeyABN…</value>
   </data>
   <data name="正在打开ACR122U支持" xml:space="preserve">
-    <value>正在打开ACR122U支持……</value>
+    <value>正在打開ACR122U支持……</value>
   </data>
   <data name="正在检索是否存在key_mfd" xml:space="preserve">
-    <value>正在检索是否存在key.mfd…</value>
+    <value>正在檢索是否存在key.mfd…</value>
   </data>
   <data name="没有发现任何有效的NFC设备" xml:space="preserve">
-    <value>没有发现任何有效的NFC设备。</value>
+    <value>沒有發現任何有效的NFC設備。</value>
   </data>
   <data name="秒" xml:space="preserve">
     <value>秒</value>
   </data>
   <data name="空闲" xml:space="preserve">
-    <value>空闲</value>
+    <value>空閒</value>
   </data>
   <data name="终端内容已保存至m1t_log文件" xml:space="preserve">
-    <value>终端内容已保存至m1t.log文件</value>
+    <value>終端內容已保存至m1t.log文件</value>
   </data>
   <data name="设备串口" xml:space="preserve">
-    <value>设备串口：</value>
+    <value>設備串列埠：</value>
   </data>
   <data name="设备忙" xml:space="preserve">
-    <value>设备忙</value>
+    <value>設備忙</value>
   </data>
   <data name="设置错误_请修改" xml:space="preserve">
-    <value>设置错误，请修改。</value>
+    <value>設置錯誤，請修改。</value>
   </data>
   <data name="识别了以下设备" xml:space="preserve">
-    <value>识别了以下设备：</value>
+    <value>識別了以下設備：</value>
   </data>
   <data name="该扇区UID校验值错误_已经自动为您更正" xml:space="preserve">
-    <value>该扇区UID校验值错误，已经自动为您更正。
+    <value>該扇區UID校驗值錯誤，已經自動為您更正。
 </value>
   </data>
   <data name="该扇区UID校验值错误_已自动更正" xml:space="preserve">
-    <value>该扇区UID校验值错误，已自动更正。
+    <value>該扇區UID校驗值錯誤，已自動更正。
 </value>
   </data>
   <data name="该扇区UID校验值错误_请点击打开扇区0来自动更正" xml:space="preserve">
-    <value>该扇区UID校验值错误，请点击打开扇区0来自动更正。
+    <value>該扇區UID校驗值錯誤，請點擊打開扇區0來自動更正。
 </value>
   </data>
   <data name="该扇区一切正常" xml:space="preserve">
-    <value>该扇区一切正常。
+    <value>該扇區一切正常。
 </value>
   </data>
   <data name="该扇区访问控制位损坏_写入将会损坏卡片_已重新设置" xml:space="preserve">
-    <value>该扇区访问控制位损坏，写入将会损坏卡片，已重新设置。
+    <value>該扇區訪問控制位損壞，寫入將會損壞卡片，已重新設置。
 </value>
   </data>
   <data name="该扇区访问控制位损坏_写入将会损坏卡片_请重新设置" xml:space="preserve">
-    <value>该扇区访问控制位损坏，写入将会损坏卡片，请重新设置。
+    <value>該扇區訪問控制位損壞，寫入將會損壞卡片，請重新設置。
 </value>
   </data>
   <data name="该扇区访问控制位无效_写入将会损坏卡片_已重新设置" xml:space="preserve">
-    <value>该扇区访问控制位无效，写入将会损坏卡片，已重新设置。
+    <value>該扇區訪問控制位無效，寫入將會損壞卡片，已重新設置。
 </value>
   </data>
   <data name="该扇区访问控制位无效_写入将会损坏卡片_请重新设置" xml:space="preserve">
-    <value>该扇区访问控制位无效，写入将会损坏卡片，请重新设置。
+    <value>該扇區訪問控制位無效，寫入將會損壞卡片，請重新設置。
 </value>
   </data>
   <data name="该操作将会清空UID卡内全部数据_清空后不可恢复_请确认是否" xml:space="preserve">
-    <value>该操作将会清空UID卡内全部数据！！！
-清空后不可恢复！请确认是否要继续操作？</value>
+    <value>該操作將會清空UID卡內全部數據！！！
+清空後不可恢復！請確認是否要繼續操作？</value>
   </data>
   <data name="该操作将会锁死UFUID卡片_锁死后不可恢复_无法再次更改0" xml:space="preserve">
-    <value>该操作将会锁死UFUID卡片！！！
-锁死后不可恢复！无法再次更改0块！请确认是否要继续操作？</value>
+    <value>該操作將會鎖死UFUID卡片！！！
+鎖死後不可恢復！無法再次更改0塊！請確認是否要繼續操作？</value>
   </data>
   <data name="该文件一切正常" xml:space="preserve">
-    <value>该文件一切正常。</value>
+    <value>該文件一切正常。</value>
   </data>
   <data name="该文件存在以下错误" xml:space="preserve">
-    <value>该文件存在以下错误：
+    <value>該文件存在以下錯誤：
 </value>
   </data>
   <data name="请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_" xml:space="preserve">
-    <value>请检查接线是否正确/驱动是否正常安装/设备电源是否已经打开（对于具有电源开关的型号）。</value>
+    <value>請檢查接線是否正確/驅動是否正常安裝/設備電源是否已經打開（對於具有電源開關的型號）。</value>
   </data>
   <data name="请输入UID号" xml:space="preserve">
-    <value>请输入UID号</value>
+    <value>請輸入UID號</value>
   </data>
   <data name="请输入已知Key" xml:space="preserve">
-    <value>请输入已知Key</value>
+    <value>請輸入已知Key</value>
   </data>
   <data name="请输入已知的Key_以英文半角逗号分隔" xml:space="preserve">
-    <value>请输入已知的Key，以英文半角逗号分隔。</value>
+    <value>請輸入已知的Key，以英文半形逗號分隔。</value>
   </data>
   <data name="请输入需要写入的UID卡号_共8位十六进制数_如E44A3B" xml:space="preserve">
-    <value>请输入需要写入的UID卡号，共8位十六进制数，如E44A3BF1。</value>
+    <value>請輸入需要寫入的UID卡號，共8位十六進位制數，如E44A3BF1。</value>
   </data>
   <data name="请输入需要更改的UID卡号_共8位十六进制数_如E44A3B" xml:space="preserve">
-    <value>请输入需要更改的UID卡号，共8位十六进制数，如E44A3BF1。</value>
+    <value>請輸入需要更改的UID卡號，共8位十六進位制數，如E44A3BF1。</value>
   </data>
   <data name="请选择MCT_txt文件保存位置及文件名" xml:space="preserve">
-    <value>请选择MCT.txt文件保存位置及文件名</value>
+    <value>請選擇MCT.txt文件保存位置及檔案名</value>
   </data>
   <data name="请选择MFD文件保存位置及文件名" xml:space="preserve">
-    <value>请选择MFD文件保存位置及文件名</value>
+    <value>請選擇MFD文件保存位置及檔案名</value>
   </data>
   <data name="请选择一个包含目标卡密钥的MFD文件_通常是已经破解出的该卡" xml:space="preserve">
-    <value>请选择一个包含目标卡密钥的MFD文件（通常是已经破解出的该卡的MFD文件）</value>
+    <value>請選擇一個包含目標卡金鑰的MFD文件（通常是已經破解出的該卡的MFD檔案）</value>
   </data>
   <data name="请选择密钥字典文件保存位置及文件名" xml:space="preserve">
-    <value>请选择密钥字典文件保存位置及文件名</value>
+    <value>請選擇金鑰字典文件保存位置及檔案名</value>
   </data>
   <data name="请选择最后一次写卡导致0块损坏的卡数据文件" xml:space="preserve">
-    <value>请选择最后一次写卡导致0块损坏的卡数据文件</value>
+    <value>請選擇最後一次寫卡導致0塊損壞的卡數據文件</value>
   </data>
   <data name="请选择需要写入的MFD文件" xml:space="preserve">
-    <value>请选择需要写入的MFD文件</value>
+    <value>請選擇需要寫入的MFD文件</value>
   </data>
   <data name="请选择需要打开的MCT格式文件" xml:space="preserve">
-    <value>请选择需要打开的MCT格式文件</value>
+    <value>請選擇需要打開的MCT格式文件</value>
   </data>
   <data name="请选择需要打开的MFD文件" xml:space="preserve">
-    <value>请选择需要打开的MFD文件</value>
+    <value>請選擇需要打開的MFD文件</value>
   </data>
   <data name="请选择需要打开的MFD文件_比较A" xml:space="preserve">
-    <value>请选择需要打开的MFD文件(比较A)</value>
+    <value>請選擇需要打開的MFD文件(比較A)</value>
   </data>
   <data name="请选择需要打开的MFD文件_比较B" xml:space="preserve">
-    <value>请选择需要打开的MFD文件(比较B)</value>
+    <value>請選擇需要打開的MFD文件(比較B)</value>
   </data>
   <data name="请选择需要打开的密钥字典文件" xml:space="preserve">
-    <value>请选择需要打开的密钥字典文件</value>
+    <value>請選擇需要打開的金鑰字典文件</value>
   </data>
   <data name="输入的UID号不合法" xml:space="preserve">
-    <value>输入的UID号不合法</value>
+    <value>輸入的UID號不合法</value>
   </data>
   <data name="运行中" xml:space="preserve">
-    <value>运行中</value>
+    <value>運行中</value>
   </data>
   <data name="运行时间" xml:space="preserve">
-    <value>运行时间:</value>
+    <value>運行時間:</value>
   </data>
   <data name="选择key_mfd" xml:space="preserve">
-    <value>选择key.mfd</value>
+    <value>選擇key.mfd</value>
   </data>
   <data name="错误" xml:space="preserve">
-    <value>错误</value>
+    <value>錯誤</value>
   </data>
   <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
   <data name="round_chevron_right_black_24dp" type="System.Resources.ResXFileRef, System.Windows.Forms">

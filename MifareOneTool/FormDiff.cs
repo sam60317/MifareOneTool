@@ -96,6 +96,8 @@ namespace MifareOneTool
             {
                 richTextBox1.Clear();
                 richTextBox1.Text = Compare();
+                richTextBox1.SelectAll();
+                richTextBox1.SelectionFont = new Font("SimSun", 9, richTextBox1.Font.Style);
             }
             else
             {
@@ -132,7 +134,6 @@ namespace MifareOneTool
                         diffCount++;
                     }
                 }
-
             }
             return Resources.共找到 + diffCount.ToString() + Resources._个块不同 + stb.ToString();
         }

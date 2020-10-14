@@ -30,7 +30,7 @@
   <GeneralIds>
     <StringID>10</StringID>
     <Comment>Previous text: Hello,cardman!
-首次运行建议点击"检测设备"以加快后续运行速度
+首次運行建議點擊"檢測設備"以加快後續運行速度
 </Comment>
   </GeneralIds>
   <GeneralIds>
@@ -258,9 +258,9 @@
   </GeneralIds>
   <GeneralIds>
     <StringID>85</StringID>
-    <Comment>Previous text: 多实例运行模式
-会禁用多开检测
-请自行指定设备</Comment>
+    <Comment>Previous text: 多實例運行模式
+會禁用多開檢測
+請自行指定設備</Comment>
   </GeneralIds>
   <GeneralIds>
     <StringID>86</StringID>
@@ -1058,9 +1058,9 @@
   <GeneralTexts>
     <StringID>1</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
+    <LanguageText>每個人使用CUID卡的時候，總會因不了解或是不經意犯下一些小錯誤。
+比如使用編輯器修改UID卻沒有改BCC，SAK=28的卡片解密後的文件直接寫入，又或是從S70卡片導入數據寫入1K卡卻沒有更正ATQA。
+MFF08工具給了你一次修復這些損壞卡片的機會。
 ------------------------------------------------------------------------
 
 </LanguageText>
@@ -1075,43 +1075,43 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>3</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>设备控制</LanguageText>
+    <LanguageText>設備控制</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>4</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>手动CLI</LanguageText>
+    <LanguageText>手動CLI</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>5</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>打开NFC命令行以进行高级操作。</LanguageText>
+    <LanguageText>打開NFC命令行以進行高級操作。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>6</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>手动扫描</LanguageText>
+    <LanguageText>手動掃描</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>7</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扫描有效卡片。</LanguageText>
+    <LanguageText>掃描有效卡片。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>8</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检测设备</LanguageText>
+    <LanguageText>檢測設備</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>9</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扫描已连接的NFC设备
+    <LanguageText>掃描已連接的NFC設備
 (目前支持PN532、ACR122U)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
@@ -1130,19 +1130,19 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>12</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>首次运行建议点击"检测设备"以加快后续运行速度</LanguageText>
+    <LanguageText>首次運行建議點擊"檢測設備"以加快後續運行速度</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>13</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>读M1</LanguageText>
+    <LanguageText>讀M1</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>14</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>读取普通M1卡片（可能需要加载密钥文件）</LanguageText>
+    <LanguageText>讀取普通M1卡片（可能需要載入金鑰文件）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1160,80 +1160,80 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>17</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>格式化普通M1卡（必须加载密钥文件）</LanguageText>
+    <LanguageText>格式化普通M1卡（必須載入金鑰文件）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>18</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写M1</LanguageText>
+    <LanguageText>寫M1</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>19</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写入普通M1卡（可能需要加载密钥文件）</LanguageText>
+    <LanguageText>寫入普通M1卡（可能需要載入金鑰文件）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>20</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>选择key.mfd</LanguageText>
+    <LanguageText>選擇key.mfd</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>21</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>加载含有正确读写卡密钥及正确控制位的MFD文件。</LanguageText>
+    <LanguageText>載入含有正確讀寫卡金鑰及正確控制位的MFD文件。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>22</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>UID写</LanguageText>
+    <LanguageText>UID寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>23</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写入UID卡片。</LanguageText>
+    <LanguageText>寫入UID卡片。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>24</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>UID读</LanguageText>
+    <LanguageText>UID讀</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>25</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>读取UID卡片。</LanguageText>
+    <LanguageText>讀取UID卡片。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>26</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MFOC读</LanguageText>
+    <LanguageText>MFOC讀</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>27</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>对半加密卡片进行Nested破解。
-按住Ctrl点击该按钮可添加已知密钥。</LanguageText>
+    <LanguageText>對半加密卡片進行Nested破解。
+按住Ctrl點擊該按鈕可添加已知金鑰。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>28</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>UID写号</LanguageText>
+    <LanguageText>UID寫號</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>29</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>向UID卡片写入置顶卡号，厂商设置为复旦。</LanguageText>
+    <LanguageText>向UID卡片寫入置頂卡號，廠商設置為復旦。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1245,44 +1245,44 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>31</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>将全卡清空并重新初始化。
-可用于ACbit损坏/KEY全部被改等情况的急救。</LanguageText>
+    <LanguageText>將全卡清空並重新初始化。
+可用於ACbit損壞/KEY全部被改等情況的急救。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>32</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>UID重置</LanguageText>
+    <LanguageText>UID重設</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>33</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>重置UID卡片0块，UID随机，厂商号为复旦。</LanguageText>
+    <LanguageText>重設UID卡片0塊，UID隨機，廠商號為復旦。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>34</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>运行/终端</LanguageText>
+    <LanguageText>運行/終端</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>35</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>停运行</LanguageText>
+    <LanguageText>停運行</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>36</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>存日志</LanguageText>
+    <LanguageText>存日誌</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>37</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>清终端</LanguageText>
+    <LanguageText>清終端</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1294,67 +1294,67 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>39</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>对卡片执行Darkside工具（不一定成功）</LanguageText>
+    <LanguageText>對卡片執行Darkside工具（不一定成功）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>40</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>Hex编辑器</LanguageText>
+    <LanguageText>Hex編輯器</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>41</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>差异比较</LanguageText>
+    <LanguageText>差異比較</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>42</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检加密</LanguageText>
+    <LanguageText>檢加密</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>43</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检测卡片加密情况。</LanguageText>
+    <LanguageText>檢測卡片加密情況。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>44</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>锁Ufuid</LanguageText>
+    <LanguageText>鎖Ufuid</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>45</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>锁死UFUID卡片0块数据（测试中）</LanguageText>
+    <LanguageText>鎖死UFUID卡片0塊數據（測試中）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>46</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>CUID写</LanguageText>
+    <LanguageText>CUID寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>47</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写入CUID/FUID卡片（可能需要密钥文件）</LanguageText>
+    <LanguageText>寫入CUID/FUID卡片（可能需要金鑰文件）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>48</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>字典测试</LanguageText>
+    <LanguageText>字典測試</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>49</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>导入字典文件进行Nested破解。</LanguageText>
+    <LanguageText>導入字典文件進行Nested破解。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1366,25 +1366,25 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>51</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>输入已知密钥进行Nested破解。</LanguageText>
+    <LanguageText>輸入已知金鑰進行Nested破解。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>52</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>集成辅助工具</LanguageText>
+    <LanguageText>集成輔助工具</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>53</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MFF08 CUID修复</LanguageText>
+    <LanguageText>MFF08 CUID修復</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>54</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>复制卡模式</LanguageText>
+    <LanguageText>複製卡模式</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1396,21 +1396,21 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>56</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请放
+    <LanguageText>請放
 新卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>57</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请放
+    <LanguageText>請放
 原卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>58</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>尝试一下是否成功</LanguageText>
+    <LanguageText>嘗試一下是否成功</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1434,67 +1434,67 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>62</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检测加密</LanguageText>
+    <LanguageText>檢測加密</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>63</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扫描卡片</LanguageText>
+    <LanguageText>掃描卡片</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>64</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[3]写入新卡</LanguageText>
+    <LanguageText>[3]寫入新卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>65</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写C/FUID卡</LanguageText>
+    <LanguageText>寫C/FUID卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>66</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写(UF)UID卡</LanguageText>
+    <LanguageText>寫(UF)UID卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>67</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>锁UFUID卡</LanguageText>
+    <LanguageText>鎖UFUID卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>68</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写入普通卡</LanguageText>
+    <LanguageText>寫入普通卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>69</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检测连接</LanguageText>
+    <LanguageText>檢測連接</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>70</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[2]读取原卡</LanguageText>
+    <LanguageText>[2]讀取原卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>71</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>从UID卡读回</LanguageText>
+    <LanguageText>從UID卡讀回</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>72</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>加载密钥…</LanguageText>
+    <LanguageText>載入金鑰…</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1506,36 +1506,36 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>74</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已知密钥读</LanguageText>
+    <LanguageText>已知金鑰讀</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>75</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>一键解原卡</LanguageText>
+    <LanguageText>一鍵解原卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>76</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>从这里开始
+    <LanguageText>從這裡開始
 
 
 
 
 
 
-本工具仅支持SAK=08/18/28的
-卡片复制。SAK28无一键解密。
-若要复制S70卡片，请在高级界
-面上取消勾选“数据写入保护”。
+本工具僅支持SAK=08/18/28的
+卡片複製。SAK28無一鍵解密。
+若要複製S70卡片，請在高級界
+面上取消勾選“數據寫入保護”。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>77</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>高级操作模式</LanguageText>
+    <LanguageText>高級操作模式</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1559,7 +1559,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>81</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该卡种读取
+    <LanguageText>該卡種讀取
 同普通卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
@@ -1572,67 +1572,67 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>83</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>软件设置</LanguageText>
+    <LanguageText>軟體設置</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>84</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>优化设置</LanguageText>
+    <LanguageText>最佳化設置</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>85</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>多实例运行模式 会禁用多开检测 请自行指定设备</LanguageText>
+    <LanguageText>多實例運行模式 會禁用多開檢測 請自行指定設備</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>86</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>指定设备</LanguageText>
+    <LanguageText>指定設備</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>87</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>减少找设备延迟</LanguageText>
+    <LanguageText>減少找設備延遲</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>88</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>偏好设置</LanguageText>
+    <LanguageText>偏好設置</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>89</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>自动以UID名保存文件</LanguageText>
+    <LanguageText>自動以UID名保存文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>90</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>自动转到高级操作模式</LanguageText>
+    <LanguageText>自動轉到高級操作模式</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>91</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>单线程计算</LanguageText>
+    <LanguageText>單執行緒計算</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>92</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>界面设置</LanguageText>
+    <LanguageText>界面設置</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>93</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>终端文字大小</LanguageText>
+    <LanguageText>終端文字大小</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1644,49 +1644,49 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>95</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>终端文字颜色</LanguageText>
+    <LanguageText>終端文字顏色</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>96</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>卡操作相关</LanguageText>
+    <LanguageText>卡操作相關</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>97</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>CUID写空卡补丁</LanguageText>
+    <LanguageText>CUID寫空卡補丁</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>98</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>数据写入保护(建议)</LanguageText>
+    <LanguageText>數據寫入保護(建議)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>99</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>自动加载uid.Key文件</LanguageText>
+    <LanguageText>自動載入uid.Key文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>100</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>自动判断Key(beta)</LanguageText>
+    <LanguageText>自動判斷Key(beta)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>101</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>就绪</LanguageText>
+    <LanguageText>就緒</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>102</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检查更新</LanguageText>
+    <LanguageText>檢查更新</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1704,35 +1704,35 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>105</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T内置的差异工具！
-说明：
-点击上方的AB两个按键分别选择MFD文件。
-然后点击“比较”即可看到结果。
+    <LanguageText>歡迎使用M1T內建的差異工具！
+說明：
+點擊上方的AB兩個按鍵分別選擇MFD文件。
+然後點擊“比較”即可看到結果。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>106</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T内置的差异工具！</LanguageText>
+    <LanguageText>歡迎使用M1T內建的差異工具！</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>107</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>说明：</LanguageText>
+    <LanguageText>說明：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>108</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>点击上方的AB两个按键分别选择MFD文件。</LanguageText>
+    <LanguageText>點擊上方的AB兩個按鍵分別選擇MFD文件。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>109</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>然后点击“比较”即可看到结果。</LanguageText>
+    <LanguageText>然後點擊“比較”即可看到結果。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1750,7 +1750,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>112</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>比较</LanguageText>
+    <LanguageText>比較</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1762,7 +1762,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>114</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>执行!</LanguageText>
+    <LanguageText>執行!</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1774,7 +1774,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>116</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>目标卡-已知信息</LanguageText>
+    <LanguageText>目標卡-已知訊息</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1792,13 +1792,13 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>119</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>类型</LanguageText>
+    <LanguageText>類型</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>120</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扇区号</LanguageText>
+    <LanguageText>扇區號</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1822,39 +1822,39 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>124</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>连续工作时请注意设备散热！</LanguageText>
+    <LanguageText>連續工作時請注意設備散熱！</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>125</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>目标扇区解密设置</LanguageText>
+    <LanguageText>目標扇區解密設置</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>126</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>只采集不计算</LanguageText>
+    <LanguageText>只採集不計算</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>127</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MFF08 Tool-CUID修复工具</LanguageText>
+    <LanguageText>MFF08 Tool-CUID修復工具</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>128</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>说明</LanguageText>
+    <LanguageText>說明</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>129</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>本工具由nfc-mfclassic做少许修改而来。可用于1K大小CUID卡0块损坏的修复。
-本工具可以修复：SAK写错（不认卡类型）、ATQA写错（不认卡大小），对于BCC写错暂时无能为力。
-请准备好你最后一次写入该卡导致0块损坏的卡数据文件（如果卡片有加密）。</LanguageText>
+    <LanguageText>本工具由nfc-mfclassic做少許修改而來。可用於1K大小CUID卡0塊損壞的修復。
+本工具可以修復：SAK寫錯（不認卡類型）、ATQA寫錯（不認卡大小），對於BCC寫錯暫時無能為力。
+請準備好你最後一次寫入該卡導致0塊損壞的卡數據文件（如果卡片有加密）。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1872,43 +1872,43 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>132</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>加载…</LanguageText>
+    <LanguageText>載入…</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>133</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>最后一次写卡导致0块损坏的卡数据文件：</LanguageText>
+    <LanguageText>最後一次寫卡導致0塊損壞的卡數據文件：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>134</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>修复写入
-有密码
+    <LanguageText>修復寫入
+有密碼
 CUID卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>135</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>修复写入
-无密空白
+    <LanguageText>修復寫入
+無密空白
 CUID卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>136</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>日志</LanguageText>
+    <LanguageText>日誌</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>137</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。
-比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。
-MFF08工具给了你一次修复这些损坏卡片的机会。
+    <LanguageText>每個人使用CUID卡的時候，總會因不了解或是不經意犯下一些小錯誤。
+比如使用編輯器修改UID卻沒有改BCC，SAK=28的卡片解密後的文件直接寫入，又或是從S70卡片導入數據寫入1K卡卻沒有更正ATQA。
+MFF08工具給了你一次修復這些損壞卡片的機會。
 ------------------------------------------------------------------------
 
 </LanguageText>
@@ -1917,19 +1917,19 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>138</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>每个人使用CUID卡的时候，总会因不了解或是不经意犯下一些小错误。</LanguageText>
+    <LanguageText>每個人使用CUID卡的時候，總會因不了解或是不經意犯下一些小錯誤。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>139</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>比如使用编辑器修改UID却没有改BCC，SAK=28的卡片解密后的文件直接写入，又或是从S70卡片导入数据写入1K卡却没有更正ATQA。</LanguageText>
+    <LanguageText>比如使用編輯器修改UID卻沒有改BCC，SAK=28的卡片解密後的文件直接寫入，又或是從S70卡片導入數據寫入1K卡卻沒有更正ATQA。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>140</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MFF08工具给了你一次修复这些损坏卡片的机会。</LanguageText>
+    <LanguageText>MFF08工具給了你一次修復這些損壞卡片的機會。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1965,7 +1965,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>143</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>打开</LanguageText>
+    <LanguageText>打開</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -1977,7 +1977,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>145</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>另存为</LanguageText>
+    <LanguageText>另存為</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2001,37 +2001,37 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>149</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检查全卡</LanguageText>
+    <LanguageText>檢查全卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>150</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>检查并纠正全卡</LanguageText>
+    <LanguageText>檢查並糾正全卡</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>151</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>导入MCT格式</LanguageText>
+    <LanguageText>導入MCT格式</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>152</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>导出为MCT格式</LanguageText>
+    <LanguageText>導出為MCT格式</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>153</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>导出密钥字典</LanguageText>
+    <LanguageText>導出金鑰字典</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>154</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>列出全卡密钥</LanguageText>
+    <LanguageText>列出全卡金鑰</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2049,183 +2049,183 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>157</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扇区</LanguageText>
+    <LanguageText>扇區</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>158</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扇区列表</LanguageText>
+    <LanguageText>扇區列表</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>159</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>修改扇区(Enter)</LanguageText>
+    <LanguageText>修改扇區(Enter)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>160</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:A写/AC:A只读/KeyB:A读写</LanguageText>
+    <LanguageText>[不可逆]KeyA:A寫/AC:A只讀/KeyB:A讀寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>161</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA:A写/AC:A读写/KeyB:A读写</LanguageText>
+    <LanguageText>KeyA:A寫/AC:A讀寫/KeyB:A讀寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>162</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:不能读写/AC:A只读/KeyB:A读</LanguageText>
+    <LanguageText>[不可逆]KeyA:不能讀寫/AC:A只讀/KeyB:A讀</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>163</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA:B写/AC:A只读B读写/KeyB:B写</LanguageText>
+    <LanguageText>KeyA:B寫/AC:A只讀B讀寫/KeyB:B寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>164</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:B写/AC:AB只读/KeyB:B写</LanguageText>
+    <LanguageText>[不可逆]KeyA:B寫/AC:AB只讀/KeyB:B寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>165</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>KeyA:不能读写/AC:A只读B读写/KeyB:不能读写</LanguageText>
+    <LanguageText>KeyA:不能讀寫/AC:A只讀B讀寫/KeyB:不能讀寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>166</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:不能读写/AC:AB只读/KeyB:不能读写</LanguageText>
+    <LanguageText>[不可逆]KeyA:不能讀寫/AC:AB只讀/KeyB:不能讀寫</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>167</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[不可逆]KeyA:不能读写/AC:AB只读/KeyB:不能读写(重复了?)</LanguageText>
+    <LanguageText>[不可逆]KeyA:不能讀寫/AC:AB只讀/KeyB:不能讀寫(重複了?)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>168</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB读写及增减值</LanguageText>
+    <LanguageText>KeyAB讀寫及增減值</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>169</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]KeyAB读及减值/不可写及增值</LanguageText>
+    <LanguageText>[只讀]KeyAB讀及減值/不可寫及增值</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>170</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]KeyAB读/不可写及增减值</LanguageText>
+    <LanguageText>[只讀]KeyAB讀/不可寫及增減值</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>171</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>KeyB读写/不可增减值</LanguageText>
+    <LanguageText>KeyB讀寫/不可增減值</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>172</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB读/KeyB写/不可增减值</LanguageText>
+    <LanguageText>KeyAB讀/KeyB寫/不可增減值</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>173</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]KeyB读/不可写及增减值</LanguageText>
+    <LanguageText>[只讀]KeyB讀/不可寫及增減值</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>174</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>KeyAB读及减值/KeyB写及增值</LanguageText>
+    <LanguageText>KeyAB讀及減值/KeyB寫及增值</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>175</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>[只读]锁死该扇区</LanguageText>
+    <LanguageText>[只讀]鎖死該扇區</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>176</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>Key/ACbits权限</LanguageText>
+    <LanguageText>Key/ACbits權限</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>177</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>2块权限</LanguageText>
+    <LanguageText>2塊權限</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>178</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>1块权限</LanguageText>
+    <LanguageText>1塊權限</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>179</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>0块权限</LanguageText>
+    <LanguageText>0塊權限</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>180</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>第2块</LanguageText>
+    <LanguageText>第2塊</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>181</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>第1块</LanguageText>
+    <LanguageText>第1塊</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>182</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>第0块</LanguageText>
+    <LanguageText>第0塊</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>183</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>当前选定扇区：？？</LanguageText>
+    <LanguageText>當前選定扇區：？？</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>184</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扇区信息</LanguageText>
+    <LanguageText>扇區訊息</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>185</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T的集成编辑器S50HTool！
-打开文件请点左上角文件-打开或Ctrl+O
+    <LanguageText>歡迎使用M1T的集成編輯器S50HTool！
+打開文件請點左上角文件-打開或Ctrl+O
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>186</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>输出</LanguageText>
+    <LanguageText>輸出</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2237,13 +2237,13 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>188</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T的集成编辑器S50HTool！</LanguageText>
+    <LanguageText>歡迎使用M1T的集成編輯器S50HTool！</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>189</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>打开文件请点左上角文件-打开或Ctrl+O</LanguageText>
+    <LanguageText>打開文件請點左上角文件-打開或Ctrl+O</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2285,55 +2285,55 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>196</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T内置的差异工具！
-说明：
-点击上方的AB两个按键分别选择MFD文件。
-然后点击“比较”即可看到结果。
+    <LanguageText>歡迎使用M1T內建的差異工具！
+說明：
+點擊上方的AB兩個按鍵分別選擇MFD文件。
+然後點擊“比較”即可看到結果。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>197</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>欢迎使用M1T的集成编辑器S50HTool！
-打开文件请点左上角文件-打开或Ctrl+O
+    <LanguageText>歡迎使用M1T的集成編輯器S50HTool！
+打開文件請點左上角文件-打開或Ctrl+O
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>198</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>不恰当的4字节UID长度</LanguageText>
+    <LanguageText>不恰當的4位元組UID長度</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>199</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText> 空扇区</LanguageText>
+    <LanguageText> 空扇區</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>200</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText> 有数据</LanguageText>
+    <LanguageText> 有數據</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>201</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText> 有错误</LanguageText>
+    <LanguageText> 有錯誤</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>202</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>加载的文件不存在。</LanguageText>
+    <LanguageText>載入的文件不存在。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>203</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>加载的S50卡文件大小异常。</LanguageText>
+    <LanguageText>載入的S50卡檔案大小異常。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2345,7 +2345,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>205</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>文件内不是含有64个块数据，可能不完整或不兼容。</LanguageText>
+    <LanguageText>文件內不是含有64個塊數據，可能不完整或不相容。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2357,49 +2357,49 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>207</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>有任务运行中，不可执行。</LanguageText>
+    <LanguageText>有任務運行中，不可執行。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>208</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>设备忙</LanguageText>
+    <LanguageText>設備忙</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>209</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MifareOne Tool - 运行中</LanguageText>
+    <LanguageText>MifareOne Tool - 運行中</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>210</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>设备串口：</LanguageText>
+    <LanguageText>設備串列埠：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>211</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MifareOne Tool - 运行完毕</LanguageText>
+    <LanguageText>MifareOne Tool - 運行完畢</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>212</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>##已自动保存-</LanguageText>
+    <LanguageText>##已自動保存-</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>213</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>##缓存文件异常##</LanguageText>
+    <LanguageText>##快取文件異常##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>214</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择MFD文件保存位置及文件名</LanguageText>
+    <LanguageText>請選擇MFD文件保存位置及檔案名</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2423,55 +2423,55 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>218</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>##Nonce收集完毕##</LanguageText>
+    <LanguageText>##Nonce收集完畢##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>219</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>您可以上传到云计算服务节点进行计算。</LanguageText>
+    <LanguageText>您可以上傳到雲端計算服務節點進行計算。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>220</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>识别了以下设备：</LanguageText>
+    <LanguageText>識別了以下設備：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>221</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>将自动选择首个设备：</LanguageText>
+    <LanguageText>將自動選擇首個設備：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>222</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>没有发现任何有效的NFC设备。</LanguageText>
+    <LanguageText>沒有發現任何有效的NFC設備。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>223</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请检查接线是否正确/驱动是否正常安装/设备电源是否已经打开（对于具有电源开关的型号）。</LanguageText>
+    <LanguageText>請檢查接線是否正確/驅動是否正常安裝/設備電源是否已經打開（對於具有電源開關的型號）。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>224</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行检测设备……</LanguageText>
+    <LanguageText>開始執行檢測設備……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>225</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>##运行完毕##</LanguageText>
+    <LanguageText>##運行完畢##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>226</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>#软件版本 </LanguageText>
+    <LanguageText>#軟體版本 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2489,13 +2489,13 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>228</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行扫描卡片……</LanguageText>
+    <LanguageText>開始執行掃描卡片……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>229</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>正在检索是否存在key.mfd…</LanguageText>
+    <LanguageText>正在檢索是否存在key.mfd…</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2507,25 +2507,25 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>231</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>正在使用智能KeyABN…</LanguageText>
+    <LanguageText>正在使用智慧KeyABN…</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>232</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>使用KeyA（是）或KeyB（否），还是不使用（用于全新白卡）（取消）？</LanguageText>
+    <LanguageText>使用KeyA（是）或KeyB（否），還是不使用（用於全新白卡）（取消）？</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>233</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行读取卡片……</LanguageText>
+    <LanguageText>開始執行讀取卡片……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>234</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>##运行出错##</LanguageText>
+    <LanguageText>##運行出錯##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2537,13 +2537,13 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>236</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择一个包含目标卡密钥的MFD文件（通常是已经破解出的该卡的MFD文件）</LanguageText>
+    <LanguageText>請選擇一個包含目標卡金鑰的MFD文件（通常是已經破解出的該卡的MFD檔案）</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>237</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>打开出错</LanguageText>
+    <LanguageText>打開出錯</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2555,19 +2555,19 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>239</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要写入的MFD文件</LanguageText>
+    <LanguageText>請選擇需要寫入的MFD文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>240</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>将要写入的文件存在错误，请用高级模式中的Hex工具打开查看。</LanguageText>
+    <LanguageText>將要寫入的文件存在錯誤，請用高級模式中的Hex工具打開查看。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>241</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>错误</LanguageText>
+    <LanguageText>錯誤</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2579,56 +2579,56 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>243</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行写入M1卡片……</LanguageText>
+    <LanguageText>開始執行寫入M1卡片……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>244</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请输入已知的Key，以英文半角逗号分隔。</LanguageText>
+    <LanguageText>請輸入已知的Key，以英文半形逗號分隔。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>245</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请输入已知Key</LanguageText>
+    <LanguageText>請輸入已知Key</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>246</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行MFOC解密……</LanguageText>
+    <LanguageText>開始執行MFOC解密……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>247</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行重置UID卡片卡号……</LanguageText>
+    <LanguageText>開始執行重設UID卡片卡號……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>248</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该操作将会清空UID卡内全部数据！！！
-清空后不可恢复！请确认是否要继续操作？</LanguageText>
+    <LanguageText>該操作將會清空UID卡內全部數據！！！
+清空後不可恢復！請確認是否要繼續操作？</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>249</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>危险操作警告</LanguageText>
+    <LanguageText>危險操作警告</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>250</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UID卡片全格……</LanguageText>
+    <LanguageText>開始執行UID卡片全格……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>251</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UID卡片读取……</LanguageText>
+    <LanguageText>開始執行UID卡片讀取……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2646,13 +2646,13 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>252</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UID卡片写入……</LanguageText>
+    <LanguageText>開始執行UID卡片寫入……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>253</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>终端内容已保存至m1t.log文件</LanguageText>
+    <LanguageText>終端內容已保存至m1t.log文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2664,80 +2664,80 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>255</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请输入需要写入的UID卡号，共8位十六进制数，如E44A3BF1。</LanguageText>
+    <LanguageText>請輸入需要寫入的UID卡號，共8位十六進位制數，如E44A3BF1。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>256</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请输入UID号</LanguageText>
+    <LanguageText>請輸入UID號</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>257</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>输入的UID号不合法</LanguageText>
+    <LanguageText>輸入的UID號不合法</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>258</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UID卡片设定卡号……</LanguageText>
+    <LanguageText>開始執行UID卡片設定卡號……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>259</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行全加密卡片爆破……</LanguageText>
+    <LanguageText>開始執行全加密卡片爆破……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>260</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已启用CUID空卡写入补丁</LanguageText>
+    <LanguageText>已啟用CUID空卡寫入補丁</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>261</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行CUID/FUID卡片写入……</LanguageText>
+    <LanguageText>開始執行CUID/FUID卡片寫入……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>262</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>MifareOne Tool - 已终止</LanguageText>
+    <LanguageText>MifareOne Tool - 已終止</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>263</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>##程序已被强制停止##</LanguageText>
+    <LanguageText>##程序已被強制停止##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>264</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该操作将会锁死UFUID卡片！！！
-锁死后不可恢复！无法再次更改0块！请确认是否要继续操作？</LanguageText>
+    <LanguageText>該操作將會鎖死UFUID卡片！！！
+鎖死後不可恢復！無法再次更改0塊！請確認是否要繼續操作？</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>265</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行UFUID卡片锁定……</LanguageText>
+    <LanguageText>開始執行UFUID卡片鎖定……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>266</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>未选择有效key.mfd。</LanguageText>
+    <LanguageText>未選擇有效key.mfd。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>267</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>无密钥</LanguageText>
+    <LanguageText>無金鑰</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2749,50 +2749,50 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>269</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行格式化M1卡片……</LanguageText>
+    <LanguageText>開始執行格式化M1卡片……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>270</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>同时打开ACR122U支持可能会引起操作速度下降。
-请确认是否要继续操作？</LanguageText>
+    <LanguageText>同時打開ACR122U支持可能會引起操作速度下降。
+請確認是否要繼續操作？</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>271</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>提示信息</LanguageText>
+    <LanguageText>提示訊息</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>272</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>ACR122U支持已经打开过。</LanguageText>
+    <LanguageText>ACR122U支持已經打開過。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>273</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>正在打开ACR122U支持……</LanguageText>
+    <LanguageText>正在打開ACR122U支持……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>274</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已打开。</LanguageText>
+    <LanguageText>已打開。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>275</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>运行中</LanguageText>
+    <LanguageText>運行中</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>276</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>运行时间:</LanguageText>
+    <LanguageText>運行時間:</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2804,25 +2804,25 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>278</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>空闲</LanguageText>
+    <LanguageText>空閒</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>279</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行检测卡片加密……</LanguageText>
+    <LanguageText>開始執行檢測卡片加密……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>280</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>密钥字典文件|*.dic</LanguageText>
+    <LanguageText>金鑰字典文件|*.dic</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>281</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的密钥字典文件</LanguageText>
+    <LanguageText>請選擇需要打開的金鑰字典文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2834,13 +2834,13 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>283</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行字典模式MFOC解密……</LanguageText>
+    <LanguageText>開始執行字典模式MFOC解密……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>284</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行HardNested解密强化卡……</LanguageText>
+    <LanguageText>開始執行HardNested解密強化卡……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2852,37 +2852,37 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>286</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>开始执行HardNested收集数据……</LanguageText>
+    <LanguageText>開始執行HardNested收集數據……</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>287</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已指定使用该NFC设备：</LanguageText>
+    <LanguageText>已指定使用該NFC設備：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>288</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MFD文件(比较A)</LanguageText>
+    <LanguageText>請選擇需要打開的MFD文件(比較A)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>289</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MFD文件(比较B)</LanguageText>
+    <LanguageText>請選擇需要打開的MFD文件(比較B)</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>290</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>AB文件中一个或两个无效。</LanguageText>
+    <LanguageText>AB文件中一個或兩個無效。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>291</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>扇区 </LanguageText>
+    <LanguageText>扇區 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2894,65 +2894,65 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>293</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText> 个块不同
+    <LanguageText> 個塊不同
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>294</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>设置错误，请修改。</LanguageText>
+    <LanguageText>設置錯誤，請修改。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>295</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>显示扇区</LanguageText>
+    <LanguageText>顯示扇區</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>296</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>当前选定扇区：</LanguageText>
+    <LanguageText>當前選定扇區：</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>297</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区UID校验值错误，已经自动为您更正。
+    <LanguageText>該扇區UID校驗值錯誤，已經自動為您更正。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>298</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位无效，写入将会损坏卡片，已重新设置。
+    <LanguageText>該扇區訪問控制位無效，寫入將會損壞卡片，已重新設置。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>299</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位损坏，写入将会损坏卡片，已重新设置。
+    <LanguageText>該扇區訪問控制位損壞，寫入將會損壞卡片，已重新設置。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>300</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MFD文件</LanguageText>
+    <LanguageText>請選擇需要打開的MFD文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>301</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>打开了</LanguageText>
+    <LanguageText>打開了</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>302</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>写入出错</LanguageText>
+    <LanguageText>寫入出錯</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -2970,66 +2970,66 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>305</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>当前扇区数据仍有错误，不能执行修改。</LanguageText>
+    <LanguageText>當前扇區數據仍有錯誤，不能執行修改。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>306</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已更新扇区</LanguageText>
+    <LanguageText>已更新扇區</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>307</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>##文件中的值错误##</LanguageText>
+    <LanguageText>##文件中的值錯誤##</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>308</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该文件一切正常。</LanguageText>
+    <LanguageText>該文件一切正常。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>309</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该文件存在以下错误：
+    <LanguageText>該文件存在以下錯誤：
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>310</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区UID校验值错误，请点击打开扇区0来自动更正。
+    <LanguageText>該扇區UID校驗值錯誤，請點擊打開扇區0來自動更正。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>311</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位无效，写入将会损坏卡片，请重新设置。
+    <LanguageText>該扇區訪問控制位無效，寫入將會損壞卡片，請重新設置。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>312</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区访问控制位损坏，写入将会损坏卡片，请重新设置。
+    <LanguageText>該扇區訪問控制位損壞，寫入將會損壞卡片，請重新設置。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>313</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区一切正常。
+    <LanguageText>該扇區一切正常。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>314</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请输入需要更改的UID卡号，共8位十六进制数，如E44A3BF1。</LanguageText>
+    <LanguageText>請輸入需要更改的UID卡號，共8位十六進位制數，如E44A3BF1。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3041,32 +3041,32 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>316</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>UID已改为</LanguageText>
+    <LanguageText>UID已改為</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>317</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>，计算得到BCC=</LanguageText>
+    <LanguageText>，計算得到BCC=</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>318</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已重置并新建卡。</LanguageText>
+    <LanguageText>已重設並新建卡。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>319</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>该扇区UID校验值错误，已自动更正。
+    <LanguageText>該扇區UID校驗值錯誤，已自動更正。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>320</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择MCT.txt文件保存位置及文件名</LanguageText>
+    <LanguageText>請選擇MCT.txt文件保存位置及檔案名</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3078,13 +3078,13 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>322</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已导出MCT文件</LanguageText>
+    <LanguageText>已導出MCT文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>323</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择密钥字典文件保存位置及文件名</LanguageText>
+    <LanguageText>請選擇金鑰字典文件保存位置及檔案名</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3096,7 +3096,7 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>325</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>已导出密钥字典文件</LanguageText>
+    <LanguageText>已導出金鑰字典文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3108,33 +3108,33 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>327</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择需要打开的MCT格式文件</LanguageText>
+    <LanguageText>請選擇需要打開的MCT格式文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>328</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>#扇区 </LanguageText>
+    <LanguageText>#扇區 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>329</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>请选择最后一次写卡导致0块损坏的卡数据文件</LanguageText>
+    <LanguageText>請選擇最後一次寫卡導致0塊損壞的卡數據文件</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>330</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>您没有给定最后一次写卡导致0块损坏的卡数据文件来作为写卡时的密钥源。
-操作终止。</LanguageText>
+    <LanguageText>您沒有給定最後一次寫卡導致0塊損壞的卡數據文件來作為寫卡時的金鑰源。
+操作終止。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>331</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>无法找到MFF08程序文件。
-操作终止。</LanguageText>
+    <LanguageText>無法找到MFF08程序文件。
+操作終止。</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3146,14 +3146,14 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
   <GeneralTexts>
     <StringID>333</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>您已经运行了MifareOne Tool，打开多个本程序可能会造成冲突及不可预料到的错误。
-确认要继续吗？</LanguageText>
+    <LanguageText>您已經運行了MifareOne Tool，打開多個本程式可能會造成衝突及不可預料到的錯誤。
+確認要繼續嗎？</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>334</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>您正在试图重复运行</LanguageText>
+    <LanguageText>您正在試圖重複運行</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -3802,10 +3802,10 @@ MFF08工具给了你一次修复这些损坏卡片的机会。
 
 
 
-本工具仅支持SAK=08/18/28的
-卡片复制。SAK28无一键解密。
-若要复制S70卡片，请在高级界
-面上取消勾选“数据写入保护”。
+本工具僅支持SAK=08/18/28的
+卡片複製。SAK28無一鍵解密。
+若要複製S70卡片，請在高級界
+面上取消勾選“數據寫入保護”。
 </LanguageText>
     <Status>2</Status>
   </GeneralTexts>
@@ -5101,25 +5101,25 @@ CUID карта</LanguageText>
   <GeneralTexts>
     <StringID>335</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>语言和地区</LanguageText>
+    <LanguageText>語言和地區</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>336</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>选择界面语言</LanguageText>
+    <LanguageText>選擇界面語言</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>337</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>标准</LanguageText>
+    <LanguageText>標準</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>338</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>俄语</LanguageText>
+    <LanguageText>俄語</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -5149,16 +5149,16 @@ CUID карта</LanguageText>
   <GeneralTexts>
     <StringID>339</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>从这里开始</LanguageText>
+    <LanguageText>從這裡開始</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
     <StringID>340</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>本工具仅支持SAK=08/18/28的
-卡片复制。SAK28无一键解密。
-若要复制S70卡片，请在高级界
-面上取消勾选“数据写入保护”。
+    <LanguageText>本工具僅支持SAK=08/18/28的
+卡片複製。SAK28無一鍵解密。
+若要複製S70卡片，請在高級界
+面上取消勾選“數據寫入保護”。
 </LanguageText>
     <Status>1</Status>
   </GeneralTexts>
@@ -5189,7 +5189,7 @@ CUID карта</LanguageText>
   <GeneralTexts>
     <StringID>344</StringID>
     <LanguageID>30724</LanguageID>
-    <LanguageText>计时器</LanguageText>
+    <LanguageText>計時器</LanguageText>
     <Status>1</Status>
   </GeneralTexts>
   <GeneralTexts>
@@ -7462,10 +7462,10 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>打开ToolStripMenuItem.Text</Name>
+    <Name>打開ToolStripMenuItem.Text</Name>
     <StringID>143</StringID>
     <Selected>true</Selected>
-    <ResourceName>打开ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>打開ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -7478,10 +7478,10 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>另存为ToolStripMenuItem.Text</Name>
+    <Name>另存為ToolStripMenuItem.Text</Name>
     <StringID>145</StringID>
     <Selected>true</Selected>
-    <ResourceName>另存为ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>另存為ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -7510,50 +7510,50 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>检查全卡ToolStripMenuItem.Text</Name>
+    <Name>檢查全卡ToolStripMenuItem.Text</Name>
     <StringID>149</StringID>
     <Selected>true</Selected>
-    <ResourceName>检查全卡ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>檢查全卡ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>检查并纠正全卡ToolStripMenuItem.Text</Name>
+    <Name>檢查並糾正全卡ToolStripMenuItem.Text</Name>
     <StringID>150</StringID>
     <Selected>true</Selected>
-    <ResourceName>检查并纠正全卡ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>檢查並糾正全卡ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>导入MCT格式ToolStripMenuItem.Text</Name>
+    <Name>導入MCT格式ToolStripMenuItem.Text</Name>
     <StringID>151</StringID>
     <Selected>true</Selected>
-    <ResourceName>导入MCT格式ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>導入MCT格式ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>导出为MCT格式ToolStripMenuItem.Text</Name>
+    <Name>導出為MCT格式ToolStripMenuItem.Text</Name>
     <StringID>152</StringID>
     <Selected>true</Selected>
-    <ResourceName>导出为MCT格式ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>導出為MCT格式ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>导出密钥字典ToolStripMenuItem.Text</Name>
+    <Name>導出金鑰字典ToolStripMenuItem.Text</Name>
     <StringID>153</StringID>
     <Selected>true</Selected>
-    <ResourceName>导出密钥字典ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>導出金鑰字典ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.resx</Component>
-    <Name>列出全卡密钥ToolStripMenuItem.Text</Name>
+    <Name>列出全卡金鑰ToolStripMenuItem.Text</Name>
     <StringID>154</StringID>
     <Selected>true</Selected>
-    <ResourceName>列出全卡密钥ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>列出全卡金鑰ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8094,10 +8094,10 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>打开ToolStripMenuItem.Text</Name>
+    <Name>打開ToolStripMenuItem.Text</Name>
     <StringID>143</StringID>
     <Selected>true</Selected>
-    <ResourceName>打开ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>打開ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8110,10 +8110,10 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>另存为ToolStripMenuItem.Text</Name>
+    <Name>另存為ToolStripMenuItem.Text</Name>
     <StringID>145</StringID>
     <Selected>true</Selected>
-    <ResourceName>另存为ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>另存為ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8142,50 +8142,50 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>检查全卡ToolStripMenuItem.Text</Name>
+    <Name>檢查全卡ToolStripMenuItem.Text</Name>
     <StringID>149</StringID>
     <Selected>true</Selected>
-    <ResourceName>检查全卡ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>檢查全卡ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>检查并纠正全卡ToolStripMenuItem.Text</Name>
+    <Name>檢查並糾正全卡ToolStripMenuItem.Text</Name>
     <StringID>150</StringID>
     <Selected>true</Selected>
-    <ResourceName>检查并纠正全卡ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>檢查並糾正全卡ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>导入MCT格式ToolStripMenuItem.Text</Name>
+    <Name>導入MCT格式ToolStripMenuItem.Text</Name>
     <StringID>151</StringID>
     <Selected>true</Selected>
-    <ResourceName>导入MCT格式ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>導入MCT格式ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>导出为MCT格式ToolStripMenuItem.Text</Name>
+    <Name>導出為MCT格式ToolStripMenuItem.Text</Name>
     <StringID>152</StringID>
     <Selected>true</Selected>
-    <ResourceName>导出为MCT格式ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>導出為MCT格式ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>导出密钥字典ToolStripMenuItem.Text</Name>
+    <Name>導出金鑰字典ToolStripMenuItem.Text</Name>
     <StringID>153</StringID>
     <Selected>true</Selected>
-    <ResourceName>导出密钥字典ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>導出金鑰字典ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>FormHTool.cs</Component>
-    <Name>列出全卡密钥ToolStripMenuItem.Text</Name>
+    <Name>列出全卡金鑰ToolStripMenuItem.Text</Name>
     <StringID>154</StringID>
     <Selected>true</Selected>
-    <ResourceName>列出全卡密钥ToolStripMenuItem.Text</ResourceName>
+    <ResourceName>列出全卡金鑰ToolStripMenuItem.Text</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8718,66 +8718,66 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>不恰当的4字节UID长度</Name>
+    <Name>不恰當的4位元組UID長度</Name>
     <StringID>198</StringID>
     <Selected>true</Selected>
-    <ResourceName>不恰当的4字节UID长度</ResourceName>
+    <ResourceName>不恰當的4位元組UID長度</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>扇区</Name>
+    <Name>扇區</Name>
     <StringID>157</StringID>
     <Selected>true</Selected>
-    <ResourceName>扇区</ResourceName>
+    <ResourceName>扇區</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_空扇区</Name>
+    <Name>_空扇區</Name>
     <StringID>199</StringID>
     <Selected>true</Selected>
-    <ResourceName>_空扇区</ResourceName>
+    <ResourceName>_空扇區</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_有数据</Name>
+    <Name>_有數據</Name>
     <StringID>200</StringID>
     <Selected>true</Selected>
-    <ResourceName>_有数据</ResourceName>
+    <ResourceName>_有數據</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_有错误</Name>
+    <Name>_有錯誤</Name>
     <StringID>201</StringID>
     <Selected>true</Selected>
-    <ResourceName>_有错误</ResourceName>
+    <ResourceName>_有錯誤</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>加载的文件不存在</Name>
+    <Name>載入的文件不存在</Name>
     <StringID>202</StringID>
     <Selected>true</Selected>
-    <ResourceName>加载的文件不存在</ResourceName>
+    <ResourceName>載入的文件不存在</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>加载的S50卡文件大小异常</Name>
+    <Name>載入的S50卡檔案大小異常</Name>
     <StringID>203</StringID>
     <Selected>true</Selected>
-    <ResourceName>加载的S50卡文件大小异常</ResourceName>
+    <ResourceName>載入的S50卡檔案大小異常</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>文件内不是含有64个块数据_可能不完整或不兼容</Name>
+    <Name>文件內不是含有64個塊數據_可能不完整或不相容</Name>
     <StringID>205</StringID>
     <Selected>true</Selected>
-    <ResourceName>文件内不是含有64个块数据_可能不完整或不兼容</ResourceName>
+    <ResourceName>文件內不是含有64個塊數據_可能不完整或不相容</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8790,66 +8790,66 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>有任务运行中_不可执行</Name>
+    <Name>有任務運行中_不可執行</Name>
     <StringID>207</StringID>
     <Selected>true</Selected>
-    <ResourceName>有任务运行中_不可执行</ResourceName>
+    <ResourceName>有任務運行中_不可執行</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>设备忙</Name>
+    <Name>設備忙</Name>
     <StringID>208</StringID>
     <Selected>true</Selected>
-    <ResourceName>设备忙</ResourceName>
+    <ResourceName>設備忙</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>MifareOne_Tool_运行中</Name>
+    <Name>MifareOne_Tool_運行中</Name>
     <StringID>209</StringID>
     <Selected>true</Selected>
-    <ResourceName>MifareOne_Tool_运行中</ResourceName>
+    <ResourceName>MifareOne_Tool_運行中</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>设备串口</Name>
+    <Name>設備串列埠</Name>
     <StringID>210</StringID>
     <Selected>true</Selected>
-    <ResourceName>设备串口</ResourceName>
+    <ResourceName>設備串列埠</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>MifareOne_Tool_运行完毕</Name>
+    <Name>MifareOne_Tool_運行完畢</Name>
     <StringID>211</StringID>
     <Selected>true</Selected>
-    <ResourceName>MifareOne_Tool_运行完毕</ResourceName>
+    <ResourceName>MifareOne_Tool_運行完畢</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_已自动保存</Name>
+    <Name>_已自動保存</Name>
     <StringID>212</StringID>
     <Selected>true</Selected>
-    <ResourceName>_已自动保存</ResourceName>
+    <ResourceName>_已自動保存</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_缓存文件异常</Name>
+    <Name>_快取文件異常</Name>
     <StringID>213</StringID>
     <Selected>true</Selected>
-    <ResourceName>_缓存文件异常</ResourceName>
+    <ResourceName>_快取文件異常</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择MFD文件保存位置及文件名</Name>
+    <Name>請選擇MFD文件保存位置及檔案名</Name>
     <StringID>214</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择MFD文件保存位置及文件名</ResourceName>
+    <ResourceName>請選擇MFD文件保存位置及檔案名</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8878,74 +8878,74 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_Nonce收集完毕</Name>
+    <Name>_Nonce收集完畢</Name>
     <StringID>218</StringID>
     <Selected>true</Selected>
-    <ResourceName>_Nonce收集完毕</ResourceName>
+    <ResourceName>_Nonce收集完畢</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>您可以上传到云计算服务节点进行计算</Name>
+    <Name>您可以上傳到雲端計算服務節點進行計算</Name>
     <StringID>219</StringID>
     <Selected>true</Selected>
-    <ResourceName>您可以上传到云计算服务节点进行计算</ResourceName>
+    <ResourceName>您可以上傳到雲端計算服務節點進行計算</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>识别了以下设备</Name>
+    <Name>識別了以下設備</Name>
     <StringID>220</StringID>
     <Selected>true</Selected>
-    <ResourceName>识别了以下设备</ResourceName>
+    <ResourceName>識別了以下設備</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>将自动选择首个设备</Name>
+    <Name>將自動選擇首個設備</Name>
     <StringID>221</StringID>
     <Selected>true</Selected>
-    <ResourceName>将自动选择首个设备</ResourceName>
+    <ResourceName>將自動選擇首個設備</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>没有发现任何有效的NFC设备</Name>
+    <Name>沒有發現任何有效的NFC設備</Name>
     <StringID>222</StringID>
     <Selected>true</Selected>
-    <ResourceName>没有发现任何有效的NFC设备</ResourceName>
+    <ResourceName>沒有發現任何有效的NFC設備</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_</Name>
+    <Name>請檢查接線是否正確_驅動是否正常安裝_設備電源是否已經打開_</Name>
     <StringID>223</StringID>
     <Selected>true</Selected>
-    <ResourceName>请检查接线是否正确_驱动是否正常安装_设备电源是否已经打开_</ResourceName>
+    <ResourceName>請檢查接線是否正確_驅動是否正常安裝_設備電源是否已經打開_</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行检测设备</Name>
+    <Name>開始執行檢測設備</Name>
     <StringID>224</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行检测设备</ResourceName>
+    <ResourceName>開始執行檢測設備</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_运行完毕</Name>
+    <Name>_運行完畢</Name>
     <StringID>225</StringID>
     <Selected>true</Selected>
-    <ResourceName>_运行完毕</ResourceName>
+    <ResourceName>_運行完畢</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_软件版本</Name>
+    <Name>_軟體版本</Name>
     <StringID>226</StringID>
     <Selected>true</Selected>
-    <ResourceName>_软件版本</ResourceName>
+    <ResourceName>_軟體版本</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8958,18 +8958,18 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行扫描卡片</Name>
+    <Name>開始執行掃描卡片</Name>
     <StringID>228</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行扫描卡片</ResourceName>
+    <ResourceName>開始執行掃描卡片</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>正在检索是否存在key_mfd</Name>
+    <Name>正在檢索是否存在key_mfd</Name>
     <StringID>229</StringID>
     <Selected>true</Selected>
-    <ResourceName>正在检索是否存在key_mfd</ResourceName>
+    <ResourceName>正在檢索是否存在key_mfd</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -8982,34 +8982,34 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>正在使用智能KeyABN</Name>
+    <Name>正在使用智慧KeyABN</Name>
     <StringID>231</StringID>
     <Selected>true</Selected>
-    <ResourceName>正在使用智能KeyABN</ResourceName>
+    <ResourceName>正在使用智慧KeyABN</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>使用KeyA_是_或KeyB_否_还是不使用_用于全新白卡_</Name>
+    <Name>使用KeyA_是_或KeyB_否_還是不使用_用於全新白卡_</Name>
     <StringID>232</StringID>
     <Selected>true</Selected>
-    <ResourceName>使用KeyA_是_或KeyB_否_还是不使用_用于全新白卡_</ResourceName>
+    <ResourceName>使用KeyA_是_或KeyB_否_還是不使用_用於全新白卡_</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行读取卡片</Name>
+    <Name>開始執行讀取卡片</Name>
     <StringID>233</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行读取卡片</ResourceName>
+    <ResourceName>開始執行讀取卡片</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_运行出错</Name>
+    <Name>_運行出錯</Name>
     <StringID>234</StringID>
     <Selected>true</Selected>
-    <ResourceName>_运行出错</ResourceName>
+    <ResourceName>_運行出錯</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9022,26 +9022,26 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择一个包含目标卡密钥的MFD文件_通常是已经破解出的该卡</Name>
+    <Name>請選擇一個包含目標卡金鑰的MFD文件_通常是已經破解出的該卡</Name>
     <StringID>236</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择一个包含目标卡密钥的MFD文件_通常是已经破解出的该卡</ResourceName>
+    <ResourceName>請選擇一個包含目標卡金鑰的MFD文件_通常是已經破解出的該卡</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>选择key_mfd</Name>
+    <Name>選擇key_mfd</Name>
     <StringID>20</StringID>
     <Selected>true</Selected>
-    <ResourceName>选择key_mfd</ResourceName>
+    <ResourceName>選擇key_mfd</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>打开出错</Name>
+    <Name>打開出錯</Name>
     <StringID>237</StringID>
     <Selected>true</Selected>
-    <ResourceName>打开出错</ResourceName>
+    <ResourceName>打開出錯</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9054,26 +9054,26 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择需要写入的MFD文件</Name>
+    <Name>請選擇需要寫入的MFD文件</Name>
     <StringID>239</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择需要写入的MFD文件</ResourceName>
+    <ResourceName>請選擇需要寫入的MFD文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>将要写入的文件存在错误_请用高级模式中的Hex工具打开查看</Name>
+    <Name>將要寫入的文件存在錯誤_請用高級模式中的Hex工具打開查看</Name>
     <StringID>240</StringID>
     <Selected>true</Selected>
-    <ResourceName>将要写入的文件存在错误_请用高级模式中的Hex工具打开查看</ResourceName>
+    <ResourceName>將要寫入的文件存在錯誤_請用高級模式中的Hex工具打開查看</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>错误</Name>
+    <Name>錯誤</Name>
     <StringID>241</StringID>
     <Selected>true</Selected>
-    <ResourceName>错误</ResourceName>
+    <ResourceName>錯誤</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9086,90 +9086,90 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行写入M1卡片</Name>
+    <Name>開始執行寫入M1卡片</Name>
     <StringID>243</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行写入M1卡片</ResourceName>
+    <ResourceName>開始執行寫入M1卡片</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请输入已知的Key_以英文半角逗号分隔</Name>
+    <Name>請輸入已知的Key_以英文半形逗號分隔</Name>
     <StringID>244</StringID>
     <Selected>true</Selected>
-    <ResourceName>请输入已知的Key_以英文半角逗号分隔</ResourceName>
+    <ResourceName>請輸入已知的Key_以英文半形逗號分隔</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请输入已知Key</Name>
+    <Name>請輸入已知Key</Name>
     <StringID>245</StringID>
     <Selected>true</Selected>
-    <ResourceName>请输入已知Key</ResourceName>
+    <ResourceName>請輸入已知Key</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行MFOC解密</Name>
+    <Name>開始執行MFOC解密</Name>
     <StringID>246</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行MFOC解密</ResourceName>
+    <ResourceName>開始執行MFOC解密</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行重置UID卡片卡号</Name>
+    <Name>開始執行重設UID卡片卡號</Name>
     <StringID>247</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行重置UID卡片卡号</ResourceName>
+    <ResourceName>開始執行重設UID卡片卡號</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该操作将会清空UID卡内全部数据_清空后不可恢复_请确认是否</Name>
+    <Name>該操作將會清空UID卡內全部數據_清空後不可恢復_請確認是否</Name>
     <StringID>248</StringID>
     <Selected>true</Selected>
-    <ResourceName>该操作将会清空UID卡内全部数据_清空后不可恢复_请确认是否</ResourceName>
+    <ResourceName>該操作將會清空UID卡內全部數據_清空後不可恢復_請確認是否</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>危险操作警告</Name>
+    <Name>危險操作警告</Name>
     <StringID>249</StringID>
     <Selected>true</Selected>
-    <ResourceName>危险操作警告</ResourceName>
+    <ResourceName>危險操作警告</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行UID卡片全格</Name>
+    <Name>開始執行UID卡片全格</Name>
     <StringID>250</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行UID卡片全格</ResourceName>
+    <ResourceName>開始執行UID卡片全格</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行UID卡片读取</Name>
+    <Name>開始執行UID卡片讀取</Name>
     <StringID>251</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行UID卡片读取</ResourceName>
+    <ResourceName>開始執行UID卡片讀取</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行UID卡片写入</Name>
+    <Name>開始執行UID卡片寫入</Name>
     <StringID>252</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行UID卡片写入</ResourceName>
+    <ResourceName>開始執行UID卡片寫入</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>终端内容已保存至m1t_log文件</Name>
+    <Name>終端內容已保存至m1t_log文件</Name>
     <StringID>253</StringID>
     <Selected>true</Selected>
-    <ResourceName>终端内容已保存至m1t_log文件</ResourceName>
+    <ResourceName>終端內容已保存至m1t_log文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9182,106 +9182,106 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请输入需要写入的UID卡号_共8位十六进制数_如E44A3B</Name>
+    <Name>請輸入需要寫入的UID卡號_共8位十六進位制數_如E44A3B</Name>
     <StringID>255</StringID>
     <Selected>true</Selected>
-    <ResourceName>请输入需要写入的UID卡号_共8位十六进制数_如E44A3B</ResourceName>
+    <ResourceName>請輸入需要寫入的UID卡號_共8位十六進位制數_如E44A3B</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请输入UID号</Name>
+    <Name>請輸入UID號</Name>
     <StringID>256</StringID>
     <Selected>true</Selected>
-    <ResourceName>请输入UID号</ResourceName>
+    <ResourceName>請輸入UID號</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>输入的UID号不合法</Name>
+    <Name>輸入的UID號不合法</Name>
     <StringID>257</StringID>
     <Selected>true</Selected>
-    <ResourceName>输入的UID号不合法</ResourceName>
+    <ResourceName>輸入的UID號不合法</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行UID卡片设定卡号</Name>
+    <Name>開始執行UID卡片設定卡號</Name>
     <StringID>258</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行UID卡片设定卡号</ResourceName>
+    <ResourceName>開始執行UID卡片設定卡號</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行全加密卡片爆破</Name>
+    <Name>開始執行全加密卡片爆破</Name>
     <StringID>259</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行全加密卡片爆破</ResourceName>
+    <ResourceName>開始執行全加密卡片爆破</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>已启用CUID空卡写入补丁</Name>
+    <Name>已啟用CUID空卡寫入補丁</Name>
     <StringID>260</StringID>
     <Selected>true</Selected>
-    <ResourceName>已启用CUID空卡写入补丁</ResourceName>
+    <ResourceName>已啟用CUID空卡寫入補丁</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行CUID_FUID卡片写入</Name>
+    <Name>開始執行CUID_FUID卡片寫入</Name>
     <StringID>261</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行CUID_FUID卡片写入</ResourceName>
+    <ResourceName>開始執行CUID_FUID卡片寫入</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>MifareOne_Tool_已终止</Name>
+    <Name>MifareOne_Tool_已終止</Name>
     <StringID>262</StringID>
     <Selected>true</Selected>
-    <ResourceName>MifareOne_Tool_已终止</ResourceName>
+    <ResourceName>MifareOne_Tool_已終止</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_程序已被强制停止</Name>
+    <Name>_程序已被強制停止</Name>
     <StringID>263</StringID>
     <Selected>true</Selected>
-    <ResourceName>_程序已被强制停止</ResourceName>
+    <ResourceName>_程序已被強制停止</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该操作将会锁死UFUID卡片_锁死后不可恢复_无法再次更改0</Name>
+    <Name>該操作將會鎖死UFUID卡片_鎖死後不可恢復_無法再次更改0</Name>
     <StringID>264</StringID>
     <Selected>true</Selected>
-    <ResourceName>该操作将会锁死UFUID卡片_锁死后不可恢复_无法再次更改0</ResourceName>
+    <ResourceName>該操作將會鎖死UFUID卡片_鎖死後不可恢復_無法再次更改0</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行UFUID卡片锁定</Name>
+    <Name>開始執行UFUID卡片鎖定</Name>
     <StringID>265</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行UFUID卡片锁定</ResourceName>
+    <ResourceName>開始執行UFUID卡片鎖定</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>未选择有效key_mfd</Name>
+    <Name>未選擇有效key_mfd</Name>
     <StringID>266</StringID>
     <Selected>true</Selected>
-    <ResourceName>未选择有效key_mfd</ResourceName>
+    <ResourceName>未選擇有效key_mfd</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>无密钥</Name>
+    <Name>無金鑰</Name>
     <StringID>267</StringID>
     <Selected>true</Selected>
-    <ResourceName>无密钥</ResourceName>
+    <ResourceName>無金鑰</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9294,66 +9294,66 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行格式化M1卡片</Name>
+    <Name>開始執行格式化M1卡片</Name>
     <StringID>269</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行格式化M1卡片</ResourceName>
+    <ResourceName>開始執行格式化M1卡片</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>同时打开ACR122U支持可能会引起操作速度下降_请确认是否</Name>
+    <Name>同時打開ACR122U支持可能會引起操作速度下降_請確認是否</Name>
     <StringID>270</StringID>
     <Selected>true</Selected>
-    <ResourceName>同时打开ACR122U支持可能会引起操作速度下降_请确认是否</ResourceName>
+    <ResourceName>同時打開ACR122U支持可能會引起操作速度下降_請確認是否</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>提示信息</Name>
+    <Name>提示訊息</Name>
     <StringID>271</StringID>
     <Selected>true</Selected>
-    <ResourceName>提示信息</ResourceName>
+    <ResourceName>提示訊息</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>ACR122U支持已经打开过</Name>
+    <Name>ACR122U支持已經打開過</Name>
     <StringID>272</StringID>
     <Selected>true</Selected>
-    <ResourceName>ACR122U支持已经打开过</ResourceName>
+    <ResourceName>ACR122U支持已經打開過</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>正在打开ACR122U支持</Name>
+    <Name>正在打開ACR122U支持</Name>
     <StringID>273</StringID>
     <Selected>true</Selected>
-    <ResourceName>正在打开ACR122U支持</ResourceName>
+    <ResourceName>正在打開ACR122U支持</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>已打开</Name>
+    <Name>已打開</Name>
     <StringID>274</StringID>
     <Selected>true</Selected>
-    <ResourceName>已打开</ResourceName>
+    <ResourceName>已打開</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>运行中</Name>
+    <Name>運行中</Name>
     <StringID>275</StringID>
     <Selected>true</Selected>
-    <ResourceName>运行中</ResourceName>
+    <ResourceName>運行中</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>运行时间</Name>
+    <Name>運行時間</Name>
     <StringID>276</StringID>
     <Selected>true</Selected>
-    <ResourceName>运行时间</ResourceName>
+    <ResourceName>運行時間</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9366,34 +9366,34 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>空闲</Name>
+    <Name>空閒</Name>
     <StringID>278</StringID>
     <Selected>true</Selected>
-    <ResourceName>空闲</ResourceName>
+    <ResourceName>空閒</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行检测卡片加密</Name>
+    <Name>開始執行檢測卡片加密</Name>
     <StringID>279</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行检测卡片加密</ResourceName>
+    <ResourceName>開始執行檢測卡片加密</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>密钥字典文件_dic</Name>
+    <Name>金鑰字典文件_dic</Name>
     <StringID>280</StringID>
     <Selected>true</Selected>
-    <ResourceName>密钥字典文件_dic</ResourceName>
+    <ResourceName>金鑰字典文件_dic</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择需要打开的密钥字典文件</Name>
+    <Name>請選擇需要打開的金鑰字典文件</Name>
     <StringID>281</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择需要打开的密钥字典文件</ResourceName>
+    <ResourceName>請選擇需要打開的金鑰字典文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9406,18 +9406,18 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行字典模式MFOC解密</Name>
+    <Name>開始執行字典模式MFOC解密</Name>
     <StringID>283</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行字典模式MFOC解密</ResourceName>
+    <ResourceName>開始執行字典模式MFOC解密</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行HardNested解密强化卡</Name>
+    <Name>開始執行HardNested解密強化卡</Name>
     <StringID>284</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行HardNested解密强化卡</ResourceName>
+    <ResourceName>開始執行HardNested解密強化卡</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9430,50 +9430,50 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>开始执行HardNested收集数据</Name>
+    <Name>開始執行HardNested收集數據</Name>
     <StringID>286</StringID>
     <Selected>true</Selected>
-    <ResourceName>开始执行HardNested收集数据</ResourceName>
+    <ResourceName>開始執行HardNested收集數據</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>已指定使用该NFC设备</Name>
+    <Name>已指定使用該NFC設備</Name>
     <StringID>287</StringID>
     <Selected>true</Selected>
-    <ResourceName>已指定使用该NFC设备</ResourceName>
+    <ResourceName>已指定使用該NFC設備</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择需要打开的MFD文件_比较A</Name>
+    <Name>請選擇需要打開的MFD文件_比較A</Name>
     <StringID>288</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择需要打开的MFD文件_比较A</ResourceName>
+    <ResourceName>請選擇需要打開的MFD文件_比較A</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择需要打开的MFD文件_比较B</Name>
+    <Name>請選擇需要打開的MFD文件_比較B</Name>
     <StringID>289</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择需要打开的MFD文件_比较B</ResourceName>
+    <ResourceName>請選擇需要打開的MFD文件_比較B</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>AB文件中一个或两个无效</Name>
+    <Name>AB文件中一個或兩個無效</Name>
     <StringID>290</StringID>
     <Selected>true</Selected>
-    <ResourceName>AB文件中一个或两个无效</ResourceName>
+    <ResourceName>AB文件中一個或兩個無效</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>扇区0</Name>
+    <Name>扇區0</Name>
     <StringID>291</StringID>
     <Selected>true</Selected>
-    <ResourceName>扇区0</ResourceName>
+    <ResourceName>扇區0</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9486,90 +9486,90 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_个块不同</Name>
+    <Name>_個塊不同</Name>
     <StringID>293</StringID>
     <Selected>true</Selected>
-    <ResourceName>_个块不同</ResourceName>
+    <ResourceName>_個塊不同</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>设置错误_请修改</Name>
+    <Name>設置錯誤_請修改</Name>
     <StringID>294</StringID>
     <Selected>true</Selected>
-    <ResourceName>设置错误_请修改</ResourceName>
+    <ResourceName>設置錯誤_請修改</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>显示扇区</Name>
+    <Name>顯示扇區</Name>
     <StringID>295</StringID>
     <Selected>true</Selected>
-    <ResourceName>显示扇区</ResourceName>
+    <ResourceName>顯示扇區</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>当前选定扇区</Name>
+    <Name>當前選定扇區</Name>
     <StringID>183</StringID>
     <Selected>true</Selected>
-    <ResourceName>当前选定扇区</ResourceName>
+    <ResourceName>當前選定扇區</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>当前选定扇区0</Name>
+    <Name>當前選定扇區0</Name>
     <StringID>296</StringID>
     <Selected>true</Selected>
-    <ResourceName>当前选定扇区0</ResourceName>
+    <ResourceName>當前選定扇區0</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区UID校验值错误_已经自动为您更正</Name>
+    <Name>該扇區UID校驗值錯誤_已經自動為您更正</Name>
     <StringID>297</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区UID校验值错误_已经自动为您更正</ResourceName>
+    <ResourceName>該扇區UID校驗值錯誤_已經自動為您更正</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区访问控制位无效_写入将会损坏卡片_已重新设置</Name>
+    <Name>該扇區訪問控制位無效_寫入將會損壞卡片_已重新設置</Name>
     <StringID>298</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区访问控制位无效_写入将会损坏卡片_已重新设置</ResourceName>
+    <ResourceName>該扇區訪問控制位無效_寫入將會損壞卡片_已重新設置</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区访问控制位损坏_写入将会损坏卡片_已重新设置</Name>
+    <Name>該扇區訪問控制位損壞_寫入將會損壞卡片_已重新設置</Name>
     <StringID>299</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区访问控制位损坏_写入将会损坏卡片_已重新设置</ResourceName>
+    <ResourceName>該扇區訪問控制位損壞_寫入將會損壞卡片_已重新設置</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择需要打开的MFD文件</Name>
+    <Name>請選擇需要打開的MFD文件</Name>
     <StringID>300</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择需要打开的MFD文件</ResourceName>
+    <ResourceName>請選擇需要打開的MFD文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>打开了</Name>
+    <Name>打開了</Name>
     <StringID>301</StringID>
     <Selected>true</Selected>
-    <ResourceName>打开了</ResourceName>
+    <ResourceName>打開了</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>写入出错</Name>
+    <Name>寫入出錯</Name>
     <StringID>302</StringID>
     <Selected>true</Selected>
-    <ResourceName>写入出错</ResourceName>
+    <ResourceName>寫入出錯</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9590,82 +9590,82 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>当前扇区数据仍有错误_不能执行修改</Name>
+    <Name>當前扇區數據仍有錯誤_不能執行修改</Name>
     <StringID>305</StringID>
     <Selected>true</Selected>
-    <ResourceName>当前扇区数据仍有错误_不能执行修改</ResourceName>
+    <ResourceName>當前扇區數據仍有錯誤_不能執行修改</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>已更新扇区</Name>
+    <Name>已更新扇區</Name>
     <StringID>306</StringID>
     <Selected>true</Selected>
-    <ResourceName>已更新扇区</ResourceName>
+    <ResourceName>已更新扇區</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_文件中的值错误</Name>
+    <Name>_文件中的值錯誤</Name>
     <StringID>307</StringID>
     <Selected>true</Selected>
-    <ResourceName>_文件中的值错误</ResourceName>
+    <ResourceName>_文件中的值錯誤</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该文件一切正常</Name>
+    <Name>該文件一切正常</Name>
     <StringID>308</StringID>
     <Selected>true</Selected>
-    <ResourceName>该文件一切正常</ResourceName>
+    <ResourceName>該文件一切正常</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该文件存在以下错误</Name>
+    <Name>該文件存在以下錯誤</Name>
     <StringID>309</StringID>
     <Selected>true</Selected>
-    <ResourceName>该文件存在以下错误</ResourceName>
+    <ResourceName>該文件存在以下錯誤</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区UID校验值错误_请点击打开扇区0来自动更正</Name>
+    <Name>該扇區UID校驗值錯誤_請點擊打開扇區0來自動更正</Name>
     <StringID>310</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区UID校验值错误_请点击打开扇区0来自动更正</ResourceName>
+    <ResourceName>該扇區UID校驗值錯誤_請點擊打開扇區0來自動更正</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区访问控制位无效_写入将会损坏卡片_请重新设置</Name>
+    <Name>該扇區訪問控制位無效_寫入將會損壞卡片_請重新設置</Name>
     <StringID>311</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区访问控制位无效_写入将会损坏卡片_请重新设置</ResourceName>
+    <ResourceName>該扇區訪問控制位無效_寫入將會損壞卡片_請重新設置</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区访问控制位损坏_写入将会损坏卡片_请重新设置</Name>
+    <Name>該扇區訪問控制位損壞_寫入將會損壞卡片_請重新設置</Name>
     <StringID>312</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区访问控制位损坏_写入将会损坏卡片_请重新设置</ResourceName>
+    <ResourceName>該扇區訪問控制位損壞_寫入將會損壞卡片_請重新設置</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区一切正常</Name>
+    <Name>該扇區一切正常</Name>
     <StringID>313</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区一切正常</ResourceName>
+    <ResourceName>該扇區一切正常</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请输入需要更改的UID卡号_共8位十六进制数_如E44A3B</Name>
+    <Name>請輸入需要更改的UID卡號_共8位十六進位制數_如E44A3B</Name>
     <StringID>314</StringID>
     <Selected>true</Selected>
-    <ResourceName>请输入需要更改的UID卡号_共8位十六进制数_如E44A3B</ResourceName>
+    <ResourceName>請輸入需要更改的UID卡號_共8位十六進位制數_如E44A3B</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9678,42 +9678,42 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>UID已改为</Name>
+    <Name>UID已改為</Name>
     <StringID>316</StringID>
     <Selected>true</Selected>
-    <ResourceName>UID已改为</ResourceName>
+    <ResourceName>UID已改為</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_计算得到BCC</Name>
+    <Name>_計算得到BCC</Name>
     <StringID>317</StringID>
     <Selected>true</Selected>
-    <ResourceName>_计算得到BCC</ResourceName>
+    <ResourceName>_計算得到BCC</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>已重置并新建卡</Name>
+    <Name>已重設並新建卡</Name>
     <StringID>318</StringID>
     <Selected>true</Selected>
-    <ResourceName>已重置并新建卡</ResourceName>
+    <ResourceName>已重設並新建卡</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>该扇区UID校验值错误_已自动更正</Name>
+    <Name>該扇區UID校驗值錯誤_已自動更正</Name>
     <StringID>319</StringID>
     <Selected>true</Selected>
-    <ResourceName>该扇区UID校验值错误_已自动更正</ResourceName>
+    <ResourceName>該扇區UID校驗值錯誤_已自動更正</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择MCT_txt文件保存位置及文件名</Name>
+    <Name>請選擇MCT_txt文件保存位置及檔案名</Name>
     <StringID>320</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择MCT_txt文件保存位置及文件名</ResourceName>
+    <ResourceName>請選擇MCT_txt文件保存位置及檔案名</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9726,18 +9726,18 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>已导出MCT文件</Name>
+    <Name>已導出MCT文件</Name>
     <StringID>322</StringID>
     <Selected>true</Selected>
-    <ResourceName>已导出MCT文件</ResourceName>
+    <ResourceName>已導出MCT文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择密钥字典文件保存位置及文件名</Name>
+    <Name>請選擇金鑰字典文件保存位置及檔案名</Name>
     <StringID>323</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择密钥字典文件保存位置及文件名</ResourceName>
+    <ResourceName>請選擇金鑰字典文件保存位置及檔案名</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9750,10 +9750,10 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>已导出密钥字典文件</Name>
+    <Name>已導出金鑰字典文件</Name>
     <StringID>325</StringID>
     <Selected>true</Selected>
-    <ResourceName>已导出密钥字典文件</ResourceName>
+    <ResourceName>已導出金鑰字典文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9766,42 +9766,42 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择需要打开的MCT格式文件</Name>
+    <Name>請選擇需要打開的MCT格式文件</Name>
     <StringID>327</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择需要打开的MCT格式文件</ResourceName>
+    <ResourceName>請選擇需要打開的MCT格式文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>_扇区</Name>
+    <Name>_扇區</Name>
     <StringID>328</StringID>
     <Selected>true</Selected>
-    <ResourceName>_扇区</ResourceName>
+    <ResourceName>_扇區</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>请选择最后一次写卡导致0块损坏的卡数据文件</Name>
+    <Name>請選擇最後一次寫卡導致0塊損壞的卡數據文件</Name>
     <StringID>329</StringID>
     <Selected>true</Selected>
-    <ResourceName>请选择最后一次写卡导致0块损坏的卡数据文件</ResourceName>
+    <ResourceName>請選擇最後一次寫卡導致0塊損壞的卡數據文件</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>您没有给定最后一次写卡导致0块损坏的卡数据文件来作为写卡时的</Name>
+    <Name>您沒有給定最後一次寫卡導致0塊損壞的卡數據文件來作為寫卡時的</Name>
     <StringID>330</StringID>
     <Selected>true</Selected>
-    <ResourceName>您没有给定最后一次写卡导致0块损坏的卡数据文件来作为写卡时的</ResourceName>
+    <ResourceName>您沒有給定最後一次寫卡導致0塊損壞的卡數據文件來作為寫卡時的</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>无法找到MFF08程序文件_操作终止</Name>
+    <Name>無法找到MFF08程序文件_操作終止</Name>
     <StringID>331</StringID>
     <Selected>true</Selected>
-    <ResourceName>无法找到MFF08程序文件_操作终止</ResourceName>
+    <ResourceName>無法找到MFF08程序文件_操作終止</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9814,18 +9814,18 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>您已经运行了MifareOne_Tool_打开多个本程序可能</Name>
+    <Name>您已經運行了MifareOne_Tool_打開多個本程式可能</Name>
     <StringID>333</StringID>
     <Selected>true</Selected>
-    <ResourceName>您已经运行了MifareOne_Tool_打开多个本程序可能</ResourceName>
+    <ResourceName>您已經運行了MifareOne_Tool_打開多個本程式可能</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>您正在试图重复运行</Name>
+    <Name>您正在試圖重複運行</Name>
     <StringID>334</StringID>
     <Selected>true</Selected>
-    <ResourceName>您正在试图重复运行</ResourceName>
+    <ResourceName>您正在試圖重複運行</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
@@ -9918,18 +9918,18 @@ CUID карта</LanguageText>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>俄语</Name>
+    <Name>俄語</Name>
     <StringID>338</StringID>
     <Selected>true</Selected>
-    <ResourceName>俄语</ResourceName>
+    <ResourceName>俄語</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>
     <Component>Resources.resx</Component>
-    <Name>标准</Name>
+    <Name>標準</Name>
     <StringID>337</StringID>
     <Selected>true</Selected>
-    <ResourceName>标准</ResourceName>
+    <ResourceName>標準</ResourceName>
     <Hidden>false</Hidden>
   </Properties>
   <Properties>

@@ -124,28 +124,28 @@
     <value>B</value>
   </data>
   <data name="button3.Text" xml:space="preserve">
-    <value>比较</value>
+    <value>比較</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>DiffTool</value>
   </data>
   <data name="richTextBox1.Lines[0]" xml:space="preserve">
-    <value>欢迎使用M1T内置的差异工具！</value>
+    <value>歡迎使用M1T內建的差異工具！</value>
   </data>
   <data name="richTextBox1.Lines[1]" xml:space="preserve">
-    <value>说明：</value>
+    <value>說明：</value>
   </data>
   <data name="richTextBox1.Lines[2]" xml:space="preserve">
-    <value>点击上方的AB两个按键分别选择MFD文件。</value>
+    <value>點擊上方的AB兩個按鍵分別選擇MFD文件。</value>
   </data>
   <data name="richTextBox1.Lines[3]" xml:space="preserve">
-    <value>然后点击“比较”即可看到结果。</value>
+    <value>然後點擊“比較”即可看到結果。</value>
   </data>
   <data name="richTextBox1.Text" xml:space="preserve">
-    <value>欢迎使用M1T内置的差异工具！
-说明：
-点击上方的AB两个按键分别选择MFD文件。
-然后点击“比较”即可看到结果。
+    <value>歡迎使用M1T內建的差異工具！
+說明：
+點擊上方的AB兩個按鍵分別選擇MFD文件。
+然後點擊“比較”即可看到結果。
 </value>
   </data>
 </root>

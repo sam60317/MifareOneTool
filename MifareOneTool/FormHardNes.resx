@@ -118,22 +118,22 @@
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
   <data name="button1.Text" xml:space="preserve">
-    <value>执行!</value>
+    <value>執行!</value>
   </data>
   <data name="button2.Text" xml:space="preserve">
     <value>取消</value>
   </data>
   <data name="checkBoxColOnly.Text" xml:space="preserve">
-    <value>只采集不计算</value>
+    <value>只採集不計算</value>
   </data>
   <data name="$this.Text" xml:space="preserve">
     <value>初始化HardNested解密</value>
   </data>
   <data name="groupBox1.Text" xml:space="preserve">
-    <value>目标卡-已知信息</value>
+    <value>目標卡-已知訊息</value>
   </data>
   <data name="groupBox2.Text" xml:space="preserve">
-    <value>目标扇区解密设置</value>
+    <value>目標扇區解密設置</value>
   </data>
   <data name="keyEdit.Lines[0]" xml:space="preserve">
     <value>ffffffffffff</value>
@@ -142,22 +142,22 @@
     <value>ffffffffffff</value>
   </data>
   <data name="label1.Text" xml:space="preserve">
-    <value>连续工作时请注意设备散热！</value>
+    <value>連續工作時請注意設備散熱！</value>
   </data>
   <data name="label2.Text" xml:space="preserve">
     <value>已知的Key</value>
   </data>
   <data name="label3.Text" xml:space="preserve">
-    <value>扇区号</value>
+    <value>扇區號</value>
   </data>
   <data name="label4.Text" xml:space="preserve">
-    <value>类型</value>
+    <value>類型</value>
   </data>
   <data name="label5.Text" xml:space="preserve">
-    <value>类型</value>
+    <value>類型</value>
   </data>
   <data name="label6.Text" xml:space="preserve">
-    <value>扇区号</value>
+    <value>扇區號</value>
   </data>
   <data name="radioKey1A.Text" xml:space="preserve">
     <value>KeyA</value>

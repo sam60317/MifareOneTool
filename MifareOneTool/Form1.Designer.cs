@@ -294,8 +294,9 @@
             // 
             // richTextBox1
             // 
-            this.richTextBox1.BackColor = System.Drawing.Color.AliceBlue;
+            this.richTextBox1.BackColor = System.Drawing.Color.Black;
             this.richTextBox1.BorderStyle = System.Windows.Forms.BorderStyle.None;
+            this.richTextBox1.Cursor = System.Windows.Forms.Cursors.Default;
             resources.ApplyResources(this.richTextBox1, "richTextBox1");
             this.richTextBox1.ForeColor = System.Drawing.Color.Black;
             this.richTextBox1.Name = "richTextBox1";

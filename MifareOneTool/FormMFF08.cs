@@ -81,6 +81,7 @@ namespace MifareOneTool
         {
             if (lprocess) { return; }
             ProcessStartInfo psi = new ProcessStartInfo("nfc-bin/mff08.exe");
+            psi.StandardOutputEncoding = Encoding.GetEncoding(936);
             string[] args = (string[])e.Argument;
             psi.Arguments = "c " + args[1] + " u \"" + args[0] + "\"";
             if (args[3] != "" && args[2] == "")
